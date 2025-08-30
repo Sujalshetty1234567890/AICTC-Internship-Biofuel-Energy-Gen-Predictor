@@ -1,0 +1,527 @@
+Project Type,City,County,Digester Type,Animal/Farm Type(s),Cattle,Dairy,Poultry,Swine,Biogas Generation Estimate (cu-ft/day),Electricity Generated (kWh/yr),Biogas End Use(s),Receiving Utility,Total Emission Reductions (MTCO2e/yr),Awarded USDA Funding?
+Farm Scale,Morrilton,Conway,Covered Lagoon,Swine,,,,4200,1814400,,Flared Full-time,,4482.755303,
+Farm Scale,Buckeye,Maricopa,Mixed Plug Flow,Dairy,,11760,,,,,Pipeline Gas,Southwest Gas,14030.12898,Yes
+Farm Scale,Eloy,Pinal,Unknown or Unspecified,Dairy,,8800,,,,,Pipeline Gas,,98999.89016,
+Centralized/Regional,Maricopa,Pinal,Complete Mix,Dairy,,30000,,,3454500,,Pipeline Gas,Kinger Morgan El Paso,337499.6255,
+Farm Scale,Gila Bend,Maricopa,Complete Mix,Dairy,,10000,,,,,CNG,Southwest Gas Company,100569.4934,
+Farm Scale,Buckeye,Maricopa,Covered Lagoon,Dairy,,15000,,,,5256000,Electricity,Arizona Public Service,154991.5499,
+Farm Scale,Tonopah,Maricopa,Mixed Plug Flow,Dairy,,4954,,,,,Pipeline Gas,,55732.43816,
+Farm Scale,Buckeye,Maricopa,Covered Lagoon,Dairy,,4000,,,,4467600,Cogeneration,Arizona Public Service Co.,43517.70212,
+Farm Scale,Pixley,Tulare,Covered Lagoon,Dairy,,5000,,,,,CNG,SoCalGas,44457.70449,
+Farm Scale,Bakersfield,Kern,Covered Lagoon,Dairy,,15500,,,600000,16206000,Electricity,PG&E,118993.7387,
+Farm Scale,Bakersfield,Kern,Covered Lagoon,Dairy,,1700,,,50000,4204800,Electricity,PG&E,16291.4353,
+Farm Scale,Bakersfield,Kern,Covered Lagoon,Dairy,,9700,,,270000,7600000,Cogeneration; Refrigeration,,91668.14512,
+Multiple Farm/Facility,Bakersfield,Kern,Covered Lagoon,Dairy,,7000,,,360000,6700000,Electricity; CNG,Pacific Gas and Electric Company,67019.11909,
+Farm Scale,Buttonwillow,Kern,Covered Lagoon,Dairy,,7000,,,,7600000,Electricity,,67660.98469,
+Farm Scale,Ceres,Stanislaus,Covered Lagoon,Dairy,,4300,,,,,Boiler/Furnace fuel; CNG,Pacific Gas and Electric Company,38233.62586,
+Farm Scale,Denair,Stanislaus,Covered Lagoon,Dairy,,5000,,,,,CNG,Pacific Gas and Electric,44457.70449,
+Farm Scale,Hilmar,Merced,Covered Lagoon,Dairy,,6500,,,325000,,CNG,Pacific Gas and Electric,57795.01584,
+Farm Scale,Crows Landing,Stanislaus,Covered Lagoon,Dairy,,4750,,,237500,,CNG,Pacific Gas and Electric,28562.46694,
+Farm Scale,Buttonwillow,Kern,Covered Lagoon,Dairy,,6500,,,,,CNG,,57795.01584,
+Farm Scale,Crows Landing,Stanislaus,Covered Lagoon,Dairy,,2000,,,100000,,CNG,Pacific Gas and Electric,17783.0818,
+Farm Scale,Dos Palos,Merced,Complete Mix,Dairy,,5420,,,,,Pipeline Gas,,39193.24563,
+Farm Scale,Visalia,Tulare,Covered Lagoon,Dairy,,2000,,,100000,,CNG,,17783.0818,
+Farm Scale,Tulare,Tulare,Covered Lagoon,Dairy,,7700,,,385000,,CNG,,68464.86492,
+Farm Scale,Wasco,Kern,Covered Lagoon,Dairy,,4000,,,200000,,CNG,SoCalGas,35566.16359,
+Farm Scale,Kerman,Fresno,Covered Lagoon,Dairy,,19100,,,955000,,Electricity,,65144.47322,
+Farm Scale,Bakersfield,Kern,Covered Lagoon,Dairy,,5700,,,,,CNG,,50681.78312,
+Farm Scale,Point Reyes Station,Marin,Covered Lagoon,Dairy,,400,,,30000,,Cogeneration,Pacific Gas and Electric Company,3972.074567,Yes
+Farm Scale,Tulare,Tulare,Covered Lagoon,Dairy,,6700,,,804000,,CNG,,64914.92954,
+Farm Scale,Bakersfield,Kern,Covered Lagoon,Dairy,,6900,,,345000,,CNG,,61351.6322,
+Farm Scale,Lodi,San Joaquin,Covered Lagoon,Dairy,,3213,,,89148,2233800,Electricity,Pacific Gas and Electric Company,21605.77707,Yes
+Farm Scale,Hilmar,Merced,Covered Lagoon,Dairy,,4500,,,225000,,CNG,Pacific Electricty and Gas,40011.93404,
+Farm Scale,Pixley,Tulare,Covered Lagoon,Dairy,,4370,,,143000,,CNG,SoCalGas,38856.03373,
+Farm Scale,Hilmar,Merced,Covered Lagoon,Dairy,,6500,,,325000,,CNG,Pacific Electricty and Gas,57795.01584,
+Farm Scale,Hanford,Kings,Covered Lagoon,Dairy,,5900,,,,,CNG,,57801.69682,
+Farm Scale,Tipton,Tulare,Covered Lagoon,Dairy,,7425,,,,,CNG,SoCalGas,66019.69117,
+Farm Scale,Tipton,Tulare,Covered Lagoon,Dairy,,4000,,,,,Electricity,Southern California Edison,40017.50153,
+Farm Scale,Madera,Madera,Covered Lagoon,Dairy,,9900,,,,,CNG,,69796.45179,
+Farm Scale,Atwater,Merced,Covered Lagoon,Dairy,,5000,,,432000,,Cogeneration; Boiler/Furnace fuel,,45712.35209,Yes
+Farm Scale,Corcoran,Tulare,Covered Lagoon,Dairy,,5700,,,,,CNG,,50681.78312,
+Farm Scale,Tulare,Tulare,Covered Lagoon,Dairy,,6500,,,325000,,CNG,,57795.01584,
+Farm Scale,Tipton,Tulare,Covered Lagoon,Dairy,,4000,,,200000,,CNG,,35566.16359,
+Farm Scale,Tulare,Tulare,Covered Lagoon,Dairy,,6500,,,325000,,CNG,SoCalGas,57795.01584,
+Farm Scale,Hanford,Kings,Covered Lagoon,Dairy,,,,,,,CNG,,,
+Farm Scale,Tulare,Tulare,Covered Lagoon,Dairy,,10350,,,,,CNG,SoCalGas,92027.4483,
+Farm Scale,Hanford,Kings,Covered Lagoon,Dairy,,6500,,,325000,,CNG,,,
+Farm Scale,Chowchilla,Madera,Covered Lagoon,Dairy,,,,,,,CNG,Pacific Gas and Electric Company,,
+Farm Scale,Ceres,Stanislaus,Covered Lagoon,Dairy,,8350,,,,,Boiler/Furnace fuel; CNG,Pacific Gas and Electric Company,74244.3665,
+Farm Scale,El Nido,Merced,Covered Lagoon,Dairy,,9500,,,475000,,CNG,Pacific Gas and Electric,84469.63854,
+Farm Scale,Visalia,Tulare,Covered Lagoon,Dairy,,10700,,,535000,,CNG,,95139.48761,
+Farm Scale,Hanford,Kings,Covered Lagoon,Dairy,,,,,,,CNG,SoCalGas,,
+Farm Scale,Tulare,Tulare,Covered Lagoon,Dairy,,8300,,,415000,,CNG,,73799.78946,
+Farm Scale,Tipton,Tulare,Covered Lagoon,Dairy,,4800,,,240000,,CNG,,42679.39631,
+Farm Scale,Tulare,Tulare,Covered Lagoon,Dairy,,2000,,,100000,,CNG,,17783.0818,
+Farm Scale,Visalia,Tulare,Covered Lagoon,Dairy,,6500,,,325000,,CNG,,57795.01584,
+Farm Scale,Porterville,Tulare,Covered Lagoon,Dairy,,4000,,,200000,,CNG,SoCalGas,35566.16359,
+Farm Scale,Modesto,Stanislaus,Complete Mix,Dairy,,2513,,,165000,3324000,Cogeneration,Modesto Irrigation District,10256.50681,Yes
+Farm Scale,Merced,Merced,Covered Lagoon,Dairy,,2000,,,,,CNG,Pacific Gas and Electric Company,17783.0818,
+Farm Scale,Tipton,Tulare,Covered Lagoon,Dairy,,5200,,,,,CNG,SoCalGas,46236.01267,
+Farm Scale,Tulare,Tulare,Covered Lagoon,Dairy,,6500,,,325000,,CNG,,57795.01584,
+Farm Scale,Visalia,Tulare,Covered Lagoon,Dairy,,6500,,,325000,,CNG,,57795.01584,
+Farm Scale,Los Banos,Merced,Covered Lagoon,Dairy,,4700,,,,,CNG,,41790.24222,
+Farm Scale,Tulare,Tulare,Covered Lagoon,Dairy,,8300,,,415000,,CNG,,79141.39498,
+Farm Scale,Pixley,Tulare,Covered Lagoon,Dairy,,16000,,,800000,,CNG,SoCalGas,142264.6544,
+Farm Scale,Hanford,Kings,Covered Lagoon,Dairy,,5333,,,266650,,CNG,SoCalGas,47418.58761,
+Farm Scale,Lindsay,Tulare,Covered Lagoon,Dairy,,1500,,,,5072040,Electricity; CNG,,11485.66819,
+Farm Scale,Hanford,Kings,Covered Lagoon,Dairy,,2900,,,,,CNG,,31127.07413,
+Farm Scale,Merced,Merced,Covered Lagoon,Dairy,,4000,,,200000,,CNG,Pacific Gas and Electric,35566.16359,
+Farm Scale,Merced,Merced,Covered Lagoon,Dairy,,,,,,,CNG,Pacific Gas and Electric Company,,
+Farm Scale,Tipton,Tulare,Covered Lagoon,Dairy,,10000,,,500000,,CNG,,88915.40899,
+Farm Scale,Visalia,Tulare,Covered Lagoon,Dairy,,1400,,,70000,,CNG,,12448.15726,
+Farm Scale,Hilmar,Merced,Covered Lagoon,Dairy,,4000,,,200000,,CNG,Pacific Electricty and Gas,35566.16359,
+Farm Scale,Wasco,Kern,Covered Lagoon,Dairy,,12500,,,625000,,CNG,SoCalGas,111144.2612,
+Farm Scale,Dos Palos,Merced,Covered Lagoon,Dairy,,,,,,,Pipeline Gas,Pacific Gas & Electric,,
+Farm Scale,Tipton,Tulare,Covered Lagoon,Dairy,,6500,,,325000,,CNG,SoCalGas,57795.01584,
+Farm Scale,Pixley,Tulare,Covered Lagoon,Dairy,,9185,,,459250,,CNG,SoCalGas,81668.80315,
+Farm Scale,Crows Landing,Stanislaus,Covered Lagoon,Dairy,,2054,,,101796,,CNG,Pacific Gas and Electric,18263.22501,
+Farm Scale,Hanford,Kings,Covered Lagoon,Dairy,,3000,,,150000,,CNG,SoCalGas,26674.6227,
+Farm Scale,Pixley,Tulare,Covered Lagoon,Dairy,,2558,,,,,CNG,SoCalGas,22744.56162,
+Farm Scale,Tipton,Tulare,Covered Lagoon,Dairy,,6949,,,,,CNG,SoCalGas,61787.3177,
+Farm Scale,Hanford,Kings,Covered Lagoon,Dairy,,13400,,,,,CNG,SoCalGas,119146.648,
+Farm Scale,Bakersfield,Kern,Covered Lagoon,Dairy,,15800,,,790000,,CNG,,145827.9517,
+Farm Scale,Buttonwillow,Kern,Covered Lagoon,Dairy,,9500,,,475000,,CNG,,84469.63854,
+Farm Scale,Bakersfield,Kern,Covered Lagoon,Dairy,,6500,,,325000,,CNG,,57795.01584,
+Farm Scale,Merced,Merced,Covered Lagoon,Dairy,,,,,,,CNG,Pacific Gas and Electric Company,,
+Farm Scale,Visalia,Tulare,Covered Lagoon,Dairy,,5700,,,285000,,CNG,,50681.78312,
+Farm Scale,Merced,Merced,Covered Lagoon,Dairy,,6500,,,325000,,CNG,Pacific Gas and Electric,57795.01584,
+Farm Scale,Visalia,Tulare,Covered Lagoon,Dairy,,8100,,,405000,,CNG,,72021.48128,
+Farm Scale,Visalia,Tulare,Covered Lagoon,Dairy,,5000,,,250000,6000000,Electricity; CNG,,33545.30591,
+Farm Scale,Galt,Sacramento,Covered Lagoon,Dairy,,1700,,,90000,1830000,Electricity,SMUD (Sacramento Utility District),14597.76594,
+Farm Scale,Bakersfield,Kern,Covered Lagoon,Dairy,,6500,,,325000,,CNG,,57795.01584,
+Farm Scale,Tipton,Tulare,Covered Lagoon,Dairy,,6500,,,325000,,CNG,SoCalGas,57795.01584,
+Farm Scale,Hilmar,Merced,Covered Lagoon,Dairy,,2000,,,100000,,CNG,Pacific Electricty and Gas,17783.0818,
+Farm Scale,Stevinson,Merced,Covered Lagoon,Dairy,,2000,,,100000,,CNG,Pacific Gas and Electric,17783.0818,
+Farm Scale,Riverdale,Fresno,Covered Lagoon,Dairy,,4000,,,,6464301,Electricity,Pacific Gas and Electric Company,40176.39964,
+Farm Scale,Corcoran,Kings,Covered Lagoon,Dairy,,8000,,,,,Electricity,Pacific Gas and Electric Company,76770.68857,
+Centralized/Regional,Pixley,Tulare,Mixed Plug Flow,Dairy,,2500,,,,9709000,Cogeneration,,29091.20828,Yes
+Farm Scale,Pixley,Tulare,Covered Lagoon,Dairy,,11209,,,,,CNG,SoCalGas,99665.28193,
+Farm Scale,Hanford,Kings,Covered Lagoon,Dairy,,6500,,,325000,,CNG,SoCalGas,57795.01584,
+Farm Scale,Visalia,Tulare,Covered Lagoon,Dairy,,6600,,,330000,,CNG,,58684.16993,
+Farm Scale,Tulare,Tulare,Covered Lagoon,Dairy,,9300,,,465000,,CNG,,88032.93588,
+Farm Scale,Merced,Merced,Covered Lagoon,Dairy,,,,,,,CNG,Pacific Gas and Electric Company,,
+Farm Scale,Chowchilla,Madera,Covered Lagoon,Dairy,,,,,,,CNG,,,
+Farm Scale,Tulare,Tulare,Covered Lagoon,Dairy,,2000,,,100000,,CNG,,17783.0818,
+Farm Scale,Tulare,Tulare,Covered Lagoon,Dairy,,6500,,,325000,,CNG,,57795.01584,
+Farm Scale,Tulare,Tulare,Covered Lagoon,Dairy,,4500,,,225000,,CNG,,40011.93404,
+Farm Scale,Hanford,Kings,Covered Lagoon,Dairy,,13800,,,,,CNG,SoCalGas,122703.2644,
+Farm Scale,Tulare,Tulare,Covered Lagoon,Dairy,,6700,,,335000,,CNG,,59573.32402,
+Farm Scale,Pixley,Tulare,Covered Lagoon,Dairy,,6640,,,,,CNG,SoCalGas,59039.83157,
+Farm Scale,Visalia,Tulare,Covered Lagoon,Dairy,,,,,,,CNG,,,
+Farm Scale,Pixley,Tulare,Covered Lagoon,Dairy,,2655,,,,,CNG,SoCalGas,23607.04109,
+Farm Scale,Hanford,Kings,Covered Lagoon,Dairy,,,,,,,CNG,,,
+Farm Scale,Merced,Merced,Covered Lagoon,Dairy,,,,,,,CNG,Pacific Gas and Electric Company,,
+Farm Scale,Riverdale,Fresno,Mixed Plug Flow,Dairy,,1700,,,,,Electricity,,,
+Farm Scale,Ceres,Stanislaus,Covered Lagoon,Dairy,,2000,,,100000,,CNG,Pacific Gas and Electric,17783.0818,
+Farm Scale,Visalia,Tulare,Covered Lagoon,Dairy,,6800,,,340000,,CNG,,65804.08363,
+Farm Scale,Tulare,Tulare,Covered Lagoon,Dairy,,4700,,,235000,,CNG,,41790.24222,
+Farm Scale,Tipton,Tulare,Covered Lagoon,Dairy,,2200,,,110000,,CNG,SoCalGas,19561.38998,
+Farm Scale,Tipton,Tulare,Covered Lagoon,Dairy,,6500,,,325000,,CNG,SoCalGas,57795.01584,
+Farm Scale,Shafter,Kern,Covered Lagoon,Dairy,,4000,,,200000,,CNG,,35566.16359,
+Farm Scale,Tipton,Tulare,Covered Lagoon,Dairy,,2100,,,,,CNG,SoCalGas,18672.23589,
+Farm Scale,Buttonwillow,Kern,Covered Lagoon,Dairy,,6500,,,325000,,CNG,,57795.01584,
+Farm Scale,Madera,Madera,Covered Lagoon,Dairy,,9500,,,475000,,Electricity,PG&E,95152.84958,
+Farm Scale,Hanford,Kings,Covered Lagoon,Dairy,,10600,,,,,CNG,,94250.33352,
+Farm Scale,Marshall,Marin,Covered Lagoon,Dairy,,417,,,14832,345600,Cogeneration,,3413.431453,
+Farm Scale,Bakersfield,Kern,Covered Lagoon,Dairy,,10400,,,520000,,CNG,,97813.63087,
+Farm Scale,Bakersfield,Kern,Covered Lagoon,Dairy,,5200,,,260000,,CNG,,51577.6182,
+Farm Scale,Ceres,Stanislaus,Covered Lagoon,Dairy,,5200,,,260000,,CNG,Pacific Gas and Electric,37728.77122,
+Farm Scale,Visalia,Tulare,Covered Lagoon,Dairy,,2100,,,105000,,CNG,,18672.23589,
+Farm Scale,Hanford,Kings,Covered Lagoon,Dairy,,3300,,,165000,,CNG,,29342.08497,
+Farm Scale,Tipton,Tulare,Covered Lagoon,Dairy,,2631,,,,5439007,Electricity,Southern California Edison,27272.65687,Yes
+Farm Scale,Helm,Fresno,Covered Lagoon,Dairy,,6500,,,325000,,CNG,Pacific Gas and Electric,57795.01584,
+Farm Scale,Riverdale,Fresno,Covered Lagoon,Dairy,,6500,,,325000,,CNG,Pacific Gas and Electric,57795.01584,
+Farm Scale,Elk Grove,Sacramento,Covered Lagoon,Dairy,,700,,,,,Electricity,SMUD,3833.722624,Yes
+Farm Scale,Galt,Sacramento,Covered Lagoon,Dairy,,1810,,,,2190000,Electricity; Cogeneration,SMUD,14009.60137,
+Farm Scale,Pixley,Tulare,Covered Lagoon,Dairy,,10560,,,,,CNG,SoCalGas,93894.67189,
+Farm Scale,Merced,Merced,Covered Lagoon,Dairy,,,,,,,CNG,Pacific Gas and Electric Company,,
+Farm Scale,Riverdale,Fresno,Covered Lagoon,Dairy,,5100,,,255000,,CNG,Pacific Gas and Electric,45346.85858,
+Farm Scale,Hanford,Kings,Covered Lagoon,Dairy,,17900,,,,,Electricity,Pacific Gas and Electric Company,151479.9545,
+Farm Scale,Madera,Madera,Covered Lagoon,Dairy,,4500,,,,,Electricity,Pacific Gas and Electric Company,43844.22115,
+Farm Scale,Chowchilla,Madera,Covered Lagoon,Dairy,,,,,,,CNG,Pacific Gas and Electric Company,,
+Farm Scale,Chowchilla,Madera,Mixed Plug Flow,Dairy,,14850,,,,,Pipeline to Electricity,Pacific Gas and Electric,,
+Farm Scale,Bakersfield,Kern,Covered Lagoon,Dairy,,10300,,,515000,,CNG,,91582.87125,
+Farm Scale,Wasco,Kern,Covered Lagoon,Dairy,,4000,,,200000,,CNG,,35566.16359,
+Farm Scale,Hilmar,Merced,Covered Lagoon,Dairy,,2400,,,120000,,CNG,Pacific Gas and Electric,21339.69816,
+Farm Scale,Riverdale,Fresno,Covered Lagoon,Dairy,,6500,,,325000,,CNG,Pacific Gas and Electric,57795.01584,
+Farm Scale,Hanford,Kings,Covered Lagoon,Dairy,,6300,,,315000,,CNG,,61358.31318,
+Farm Scale,Hilmar,Merced,Covered Lagoon,Dairy,,2000,,,100000,,CNG,Pacific Electricty and Gas,17783.0818,
+Farm Scale,Lamar,Prowers,Complete Mix,Swine,,,,5500,,Project Name,Flared Full-time,,2851.147256,
+Farm Scale,Windsor,Weld,Mixed Plug Flow,Dairy,,7100,,,,,Pipeline Gas,,69937.88897,
+Farm Scale,Thompson,,Complete Mix,Dairy,,430,,,,3500000,Cogeneration,Eversource,3344.910433,
+Farm Scale,East Cannan,Litchfield,Horizontal Plug Flow,Dairy,,250,,,14000,,Boiler/Furnace fuel,,2366.892814,Yes
+Farm Scale,Coventry,,Complete Mix,Dairy,,475,,,,4500000,Electricity,,4234.46665,
+Farm Scale,Ellington,Tolland,,Dairy,,2800,,,,,Pipeline Gas,Elizabethtown Gas,3030.186586,
+Farm Scale,Trenton,Gilchrist,Mixed Plug Flow,Dairy,,6500,,,,7446000,Electricity,,67862.86747,
+Farm Scale,Lee,Madison,Mixed Plug Flow,Dairy,,4309,,,,,Pipeline Gas,,46202.72135,
+Farm Scale,O'Brien,Suwannee,Mixed Plug Flow,Cattle,5000,,,,,4467600,Electricity,,13836.35731,
+Research,Hague,Alachua,Fixed Film/Attached Media,Dairy,,500,,,,,Boiler/Furnace fuel,,5466.748894,
+Research,Athens,Oglethorpe,Unknown or Unspecified,Swine,,,,100,,,Boiler/Furnace fuel,,121.7064757,
+Farm Scale,New Liberty,Scott,Complete Mix,Cattle,2400,,,,390000,6742081,Cogeneration,"Alliant Energy, Inc.",11617.47699,Yes
+Farm Scale,Amana,Iowa,Mixed Plug Flow,Cattle,1250,,,,1848700,22776000,Cogeneration,Amana Society Service Company,17502.18894,Yes
+Farm Scale,Williamsburg,Iowa,Covered Lagoon,Swine,,,,3000,,,Flared Full-time,,2866.718563,
+Farm Scale,State Center,Marshall,Complete Mix,Dairy,,8000,,,,,Pipeline Gas,,77454.97049,
+Farm Scale,Rock Valley,Sioux,Mixed Plug Flow,Dairy,,9000,,,,,CNG,,,
+Farm Scale,Doon,Lyon,Mixed Plug Flow,Dairy,,8000,,,,,CNG,,,
+Farm Scale,Westgate,Fayette,Horizontal Plug Flow,Dairy,,700,,,,876000,Cogeneration,"Alliant Energy, Inc.",2745.413287,
+Farm Scale,Rock Valley,Sioux,Mixed Plug Flow,Dairy,,2100,,,,,Pipeline Gas,,20331.92975,
+Farm Scale,Jerome,Jerome,Mixed Plug Flow,Dairy,,15000,,,,,Pipeline Gas,,145949.9284,Yes
+Multiple Farm/Facility,Filer,Twin Falls,Complete Mix,Dairy,,8900,,,,15550000,Electricity,Idaho Power Company,87163.21481,Yes
+Farm Scale,Jerome,Jerome,Complete Mix,Dairy,,7200,,,,12000000,Cogeneration,Idaho Power Company,70100.57496,
+Farm Scale,Gooding,Gooding,Mixed Plug Flow,Dairy,,5400,,,648000,9500000,Electricity,Idaho Power Company,52932.02322,
+Farm Scale,Hansen,Twin Falls,Mixed Plug Flow,Dairy,,10000,,,,18527400,Electricity,Idaho Power Company,98688.95491,
+Farm Scale,Roberts,Jefferson,Complete Mix,Dairy,,5500,,,,12658200,Cogeneration,Rocky Mountain Power,56039.15603,
+Farm Scale,Jerome,Jerome,Complete Mix,Dairy,,35000,,,,,Pipeline Gas,,340549.8329,
+Farm Scale,Burley,Cassia,Complete Mix,Dairy,,,,,,,Pipeline Gas,,,
+Farm Scale,Burley,Cassia,Covered Lagoon,Dairy,,,,,,,Pipeline Gas,,,
+Farm Scale,Burley,Cassia,Complete Mix,Dairy,,,,,,,Pipeline Gas,,,
+Farm Scale,Burley,Cassia,Covered Lagoon,Dairy,,,,,,,Pipeline Gas,,,
+Farm Scale,Rio,Knox,Covered Lagoon,Swine,,,,8900,36000,315360,Cogeneration,,3632.31868,
+Farm Scale,Pearl City,Caroll,Mixed Plug Flow,Dairy,,850,,,22000,1533000,Cogeneration,Commonwealth Edison,3869.877365,Yes
+Farm Scale,Reynolds,White,Mixed Plug Flow,Cattle; Swine,4500,,,800,,70364700,Cogeneration,Northern Indiana Power Service Co.,55065.67622,Yes
+Farm Scale,Fair Oaks,Jasper,Mixed Plug Flow,Dairy,,3600,,,,,CNG,,30513.95833,
+Farm Scale,Fair Oaks,Jasper,Mixed Plug Flow,Dairy,,12000,,,1200000,7818300,Cogeneration; CNG,Jasper County REMC,42624.36164,
+Farm Scale,Fair Oaks,Jasper,Mixed Plug Flow,Dairy,,4300,,,430000,,CNG,,13275.7036,
+Centralized/Regional,Goshen,Elkhart,Mixed Plug Flow,Dairy,,1500,,,907200,,Cogeneration,NIPSCO,22436.41114,
+Farm Scale,Fair Oaks,Jasper,Mixed Plug Flow,Dairy,,5250,,,450000,,CNG,,16208.70789,
+Farm Scale,Rensselaer,Jasper,Mixed Plug Flow,Dairy,,4000,,,,7073700,Cogeneration,,38949.24781,
+Farm Scale,Plymouth,Marshall,Complete Mix,Dairy,,2100,,,,7446000,Electricity,NIPSCO,23110.17709,
+Multiple Farm/Facility,Huntington,Huntington,Mixed Plug Flow,Dairy,,4500,,,,,CNG,,,
+Farm Scale,Rensselaer,Jasper,Mixed Plug Flow,Dairy,,3611,,,,,Pipeline Gas,,34657.77314,
+Farm Scale,Reynolds,White,Mixed Plug Flow,Dairy,,9240,,,,,Pipeline Gas,,10364.81254,
+Centralized/Regional,Monticello,White,Complete Mix,Cattle; Swine,300,,,4000,408000,8370000,Cogeneration,Northern Indiana Power Service Co.,7748.344689,Yes
+Farm Scale,Fair Oaks,Jasper,Mixed Plug Flow,Dairy,,7000,,,840000,,CNG,,59332.69675,
+Farm Scale,Hanford,CA,Covered Lagoon,Cattle; Dairy,40000,39000,,,1365000,,CNG,SoCalGas,,
+Farm Scale,Campbellsville,Taylor,Primary digester tank with secondary covered lagoon,Poultry,,,160000,,,3300000,Electricity,East Kentucky Power,6611.073485,
+Farm Scale,Hadley,Hampshire,Complete Mix,Dairy,,550,,,,7000000,Cogeneration,Eversource,8085.998265,
+Farm Scale,Deerfield,Franklin,Complete Mix,Dairy,,300,,,,,Electricity,,6067.78439,Yes
+Farm Scale,Haverhill,Essex,Complete Mix,Dairy,,500,,,345600,7700000,Cogeneration,National Grid,5502.906431,
+Farm Scale,Rutland,Worcester,Complete Mix,Dairy,,300,,,,3700000,Cogeneration,National Grid,4836.347346,Yes
+Farm Scale,Spencer,Worcester,Complete Mix,Dairy,,800,,,,,Cogeneration,,7461.136033,
+Farm Scale,Hatfield,Hampshire,Complete Mix,Cattle; Dairy,30,174,,,,2365200,Electricity,,3045.216042,Yes
+Farm Scale,Sheffield,Berkshire,Mixed Plug Flow,Dairy,,600,,,59000,,Cogeneration,National Grid,3856.080218,Yes
+Farm Scale,Granville,Hampden,Complete Mix,Dairy,,602,,,,3287628,Electricity,,5491.998879,
+Farm Scale,Pocomoke City,,Complete Mix,Poultry,,,80000,,,100000,Electricity; Boiler/Furnace fuel,,59.20137231,
+Research,Beltsville,Prince Georges,Complete Mix,Dairy,,145,,,13000,,Boiler/Furnace fuel,,1185.616638,
+Multiple Farm/Facility,Clinton,Kennebec,Mixed Plug Flow,Dairy,,5275,,,,,Pipeline Gas,Summit Natural Gas,17161.84297,
+Farm Scale,Exeter,Penobscot,Complete Mix,Dairy,,1500,,,,8584800,Electricity,,9427.045312,Yes
+Multiple Farm/Facility,Coopersville,Ottawa,Unknown or Unspecified,Dairy,,3000,,,,,Pipeline Gas,,3639.010918,
+Farm Scale,Freeport,Barry,Complete Mix,Dairy,,3300,,,,11913600,Electricity; Boiler/Furnace fuel,,31274.03026,Yes
+Farm Scale,Ravenna,Muskegon,Complete Mix,Dairy,,1000,,,,,Cogeneration,,2941.271408,
+Multiple Farm/Facility,Hamilton,Allegan,Complete Mix,Dairy; Swine,,450,,16000,,657000,Cogeneration; Boiler/Furnace fuel,,5826.236699,Yes
+Farm Scale,Elsie,Shiawassee,Complete Mix,Dairy,,3200,,,329000,6500000,Electricity,Consumers Energy Company,14047.76451,
+Farm Scale,Greenville,Montcalm,Unknown or Unspecified,Dairy,,3020,,,,,Pipeline Gas,ANR Pipeline,30144.00803,
+Research,Lansing,Ingham,Complete Mix,Dairy,,360,,,158000,2800000,Cogeneration,,2683.932277,
+Farm Scale,Coopersville,Ottawa,Complete Mix,Dairy,,3100,,,80000,223380,Cogeneration,,9277.252408,
+Farm Scale,Hartford,Van Buren,Unknown or Unspecified,Dairy,,5750,,,,,Pipeline Gas,ANR Pipeline,57393.39276,
+Multiple Farm/Facility,Fennville,Allegan,Complete Mix,Dairy; Swine,,3700,,9000,324000,3138817,Cogeneration,Consumers Energy Company; Michigan Gas Utilities Corp,33893.56527,Yes
+Farm Scale,Morenci,Lenawee,Unknown or Unspecified,Dairy,,3250,,,,,Pipeline Gas,Rover Pipeline,32439.74374,
+Farm Scale,Orleans,Ionia,Mixed Plug Flow,Dairy,,3830,,,,,Boiler/Furnace fuel,,35319.26816,
+Farm Scale,Lake Benton,Lincoln,Complete Mix,Dairy,,2000,,,,,Pipeline Gas,,7356.848523,
+Farm Scale,Hancock,Stevens,Mixed Plug Flow,Dairy,,5520,,,634800,,CNG,Alliance,42290.74251,
+Farm Scale,Princeton,Mille Lacs,Horizontal Plug Flow,Dairy,,900,,,70000,1226400,Electricity; Cogeneration,East Central Energy,3218.576398,
+Farm Scale,Le Sueur,Le Sueur,Complete Mix,Dairy,,3000,,,374400,4839900,Cogeneration,,26743.9629,
+Farm Scale,St. Peter,Nicollet,Horizontal Plug Flow,Dairy,,3000,,,,2803200,Cogeneration,,9812.289192,
+Farm Scale,Morris,Stevens,Mixed Plug Flow,Dairy,,7665,,,881475,,CNG,Alliance,55826.46286,
+Farm Scale,Morris,Stevens,Mixed Plug Flow,Dairy,,6300,,,724500,,CNG,Alliance,48089.01657,
+Farm Scale,Triplet,Chariton,Induced Blanket Reactor,Cattle,2500,,,,,4467600,Electricity,Kansas City Power and Light Company,6119.588993,Yes
+Research,Columbia,,Complete Mix,Swine,,,,10,,,Flared Full-time,,4.219813525,
+Farm Scale,Unionville,Putnam,Covered Lagoon,Swine,,,,31795,,,Pipeline Gas,,35774.90536,
+Farm Scale,King City,Gentry,Covered Lagoon,Swine,,,,32000,,,Pipeline Gas,,36005.56602,
+Farm Scale,Harris,Sullivan,Covered Lagoon,Swine,,,,14150,,,Pipeline Gas,ANR Interstate Pipeline,15921.21122,
+Farm Scale,Albany,Gentry,Covered Lagoon,Swine,,,,28800,,,Pipeline Gas,ANR Interstate Pipeline,32405.00941,
+Farm Scale,Mercer,Mercer,Covered Lagoon,Swine,,,,85000,,,Pipeline Gas,,95639.78473,
+Farm Scale,Browning,,Covered Lagoon,Swine,,,,24700,,,Pipeline Gas,,27791.79627,
+Farm Scale,Green City,Sullivan,Covered Lagoon,Swine,,,,21000,,,Pipeline Gas,ANR Interstate Pipeline,23628.6527,
+Farm Scale,Unionville,Putnam,Covered Lagoon,Swine,,,,79500,,,Pipeline Gas,,89451.32807,
+Farm Scale,Prentiss,Jefferson Davis,Complete Mix,Poultry,,,270000,,,558450,Cogeneration; Boiler/Furnace fuel,,368.9171146,Yes
+Farm Scale,Laurel,Jones,Complete Mix,Poultry,,,84000,,70000,876000,Cogeneration,,615.6148093,Yes
+Farm Scale,Montpelier,Clay,Covered Lagoon,Swine,,,,6500,,88700,Cogeneration; Boiler/Furnace fuel,,3951.849099,
+Farm Scale,Forest,Scott,Fixed Film/Attached Media,Dairy,,450,,,,306600,Electricity; Boiler/Furnace fuel,,3733.442358,
+Farm Scale,Corvallis,Ravalli,Induced Blanket Reactor,Dairy,,750,,,36000,372300,Electricity; Boiler/Furnace fuel,Ravalli County Rural Electric Cooperative,5499.563182,Yes
+Farm Scale,Zebulon,Johnston,Complete Mix,Swine,,,,,,,Boiler/Furnace fuel,,,
+Farm Scale,Zebulon,Johnston,Covered Lagoon,Swine,,,,4000,28000,,Boiler/Furnace fuel,,2696.942531,
+Farm Scale,Cherryville,Gaston,Mixed Plug Flow,Dairy,,1618,,,,,Pipeline Gas,,16328.05962,
+Farm Scale,Lillington,Harnett,Covered Lagoon,Swine,,,,6000,,341000,Electricity,South River Electric Membership Corporation (EMC),6647.131892,Yes
+Farm Scale,Lillington,Harnett,Covered Lagoon,Swine,,,,7890,32000,275000,Electricity,South River EMC,8617.301634,Yes
+Centralized/Regional,Warsaw,Duplin,Unknown or Unspecified,Swine;Poultry,,,,,,,Pipeline Gas,Duke Energy,,
+Centralized/Regional,Lilesville,Anson,Unknown or Unspecified,Broiler,,,,,,,Pipeline Gas,Piedmont Natural Gas,,
+Farm Scale,Boonville,Yadkin,Covered Lagoon,Swine,,,,8640,50400,483990,Electricity,Surry-Yadkin Electric Membership Corporation,9566.841977,Yes
+Farm Scale,Faison,Duplin,Covered Lagoon,Swine,,,,10500,,,Boiler/Furnace fuel,,12630.42546,
+Multiple Farm/Facility,Kenansville,Duplin,Covered Lagoon,Swine,,,,60000,,11000000,Pipeline to Electricity,"Piedmont Natural Gas, Duke Energy",71884.38548,Yes
+Farm Scale,Magnolia,Duplin,Complete Mix,Swine,,,,42000,,4380000,Electricity; Cogeneration,Four County Electric Membership Coop,47834.54831,
+Farm Scale,Magnolia,Duplin,Complete Mix,Swine,,,,30000,,7008000,Electricity; Cogeneration,Four County Electric Membership Coop,36934.28089,
+Farm Scale,Bladenboro,Bladen,Mixed Plug Flow,Swine,,,,28000,,4467600,Electricity,North Carolina Electric Membership Corporation,32993.42243,
+Centralized/Regional,Monroe,Union,Unknown or Unspecified,Swine,,,,,,,Pipeline Gas,,,
+Centralized/Regional,Stantonburg,Wilson,Unknown or Unspecified,Swine,,,,,,,Pipeline Gas,,,
+Farm Scale,Candor,Tioga,Horizontal Plug Flow,Dairy,,520,,,42868,613000,Electricity; Cogeneration,New York State Electric & Gas,1812.897853,
+Farm Scale,Peru,Clinton,Complete Mix,Dairy,,3500,,,,,Electricity,,31850.80293,
+Farm Scale,Scipio Center,Cayuga,Mixed Plug Flow,Dairy,,4443,,,,,,,36140.0813,
+Farm Scale,Aurora,Cayuga,Mixed Plug Flow,Dairy,,2400,,,,1068720,Electricity,,7111.652747,Yes
+Farm Scale,Varysburg,Wyoming,Mixed Plug Flow,Dairy,,2000,,,,,Cogeneration; Pipeline Gas,Empire interstate gas pipeline,7516.884587,
+Centralized/Regional,Auburn,Cayuga,Complete Mix,Dairy,,1255,,,215616,4624000,Cogeneration,New York State Electric and Gas (NYSEG),6618.000617,Yes
+Farm Scale,Avon,Livingston,Covered Lagoon,Dairy,,1100,,,77000,,Flared Full-time,,8974.883642,
+Farm Scale,Amsterdam,Montgomery,Covered Lagoon,Dairy,,400,,,,,Flared Full-time,,3263.594052,Yes
+Farm Scale,King Ferry,Cayuga,Covered Lagoon,Dairy,,800,,,40000,3723000,Electricity,,9182.372135,Yes
+Farm Scale,Perry,Wyoming,Mixed Plug Flow,Dairy,,2250,,,,4467600,Cogeneration,,21488.0851,
+Farm Scale,Perry,Wyoming,Mixed Plug Flow,Dairy,,2250,,,,,Pipeline Gas,,20872.51927,
+Farm Scale,Canton,St. Lawrence,Complete Mix,Dairy,,2300,,,122800,2803200,Electricity,National Grid,6093.603344,Yes
+Farm Scale,Clifton Springs,Ontario,Covered Lagoon,Dairy,,700,,,,,,,5711.28959,
+Farm Scale,Wilson,Niagra,Complete Mix,Dairy,,1900,,,,,Pipeline Gas,Empire interstate gas pipeline,17625.68294,
+Farm Scale,Wilson,Niagra,Complete Mix,Dairy,,1900,,,,,Electricity,,18499.62275,
+Farm Scale,Oakfield,Genesee,Mixed Plug Flow,Dairy,,2000,,,,3350700,Electricity,National Grid,18657.98942,
+Farm Scale,Oakfield,Genesee,Mixed Plug Flow,Dairy,,2700,,,324000,3350700,Electricity; Pipeline Gas,,24351.90275,
+Farm Scale,Stanley,Ontario,Complete Mix,Dairy,,1650,,,182400,,Electricity; Pipeline Gas,,7315.006158,
+Farm Scale,LINWOOD,Livingston,Complete Mix,Dairy,,1850,,,432000,,Cogeneration,,19321.48393,Yes
+Farm Scale,Genoa,Cayuga,Covered Lagoon,Dairy,,1650,,,115500,,Flared Full-time,,13462.32546,
+Farm Scale,Clymer,Chautauqua,Complete Mix,Dairy,,650,,,325000,1717000,Cogeneration,National Grid,2944.182004,
+Farm Scale,Scipio Center,Cayuga,Complete Mix,Dairy,,1350,,,113230,2102400,Electricity,,4618.584038,Yes
+Farm Scale,Adams,Jefferson,Complete Mix,Dairy,,625,,,36000,381240,Cogeneration,Niagra Mohawk grid,1798.731476,Yes
+Centralized/Regional,Union Springs,Cayuga,Mixed Plug Flow,Dairy,,3360,,,,2749000,Electricity,NYSEG,29291.32679,
+Farm Scale,Perry,Wyoming,Horizontal Plug Flow,Dairy,,1800,,,111400,1226400,Cogeneration,New York State Electric and Gas (NYSEG),13290.70436,Yes
+Farm Scale,Scipio Center,Cayuga,Mixed Plug Flow,Dairy,,3200,,,,6615552,Electricity,,13184.05083,
+Farm Scale,Warsaw,Wyoming,Mixed Plug Flow,Dairy,,850,,,132000,2102400,Electricity,New York State Electric and Gas (NYSEG),3748.16468,
+Farm Scale,Warsaw,Wyoming,Mixed Plug Flow,Dairy,,1840,,,132000,,Pipeline Gas,Empire interstate gas pipeline,5493.277211,
+Multiple Farm/Facility,Covington,Wyoming,Complete Mix,Dairy,,2000,,,269800,16910000,Electricity,,17351.15706,
+Farm Scale,Skaneateles,Cayuga,Horizontal Plug Flow,Dairy,,1900,,,100000,420480,Electricity; Boiler/Furnace fuel,National Grid,4059.857715,
+Farm Scale,Poestenkill,Rensselear,Complete Mix,Dairy,,350,,,,876000,Cogeneration,National Grid,1550.711917,
+Farm Scale,Fort Ann,Washington,Complete Mix,Dairy,,1350,,,99165,1396096,Cogeneration,National Grid,4567.243873,Yes
+Farm Scale,King Ferry,Cayuga,Mixed Plug Flow,Dairy,,3500,,,,,Pipeline Gas,,32468.36332,
+Farm Scale,King Ferry,Cayuga,Mixed Plug Flow,Dairy,,3500,,,,7446000,Cogeneration,,33779.9347,
+Farm Scale,Clifton Springs,Ontario,Covered Lagoon,Dairy,,1050,,,84000,,Flared Full-time,,8566.934386,
+Farm Scale,Ogdensburg,St. Lawrence,Complete Mix,Dairy,,6000,,,630000,,Cogeneration,,18277.36934,Yes
+Farm Scale,Byron,Genesee,Complete Mix,Dairy,,1800,,,116328,2102400,Cogeneration,National Grid,5899.584461,Yes
+Farm Scale,Byron,Genesee,Complete Mix,Dairy,,1800,,,116328,,Pipeline Gas,Empire interstate gas pipeline,6300.419573,
+Farm Scale,Montpelier,Williams,Mixed Plug Flow,Dairy,,3350,,,429000,3100000,Cogeneration,"Buckeye Power, Inc.",28321.52119,Yes
+Farm Scale,Haviland,Paulding,Mixed Plug Flow,Dairy,,2100,,,,2860000,Electricity,,19083.03955,Yes
+Farm Scale,Circleville,Pickaway,Covered Lagoon,Dairy,,1000,,,,,Flared Full-time,,8139.208967,Yes
+Farm Scale,West Unity,Williams,Complete Mix,Dairy,,1810,,,,2978400,Electricity,Pennsylvania Electric Company (Penelec),7474.801143,Yes
+Farm Scale,Fairborn,Greene,Complete Mix,Swine,,,,5000,,,Electricity,,4273.284419,Yes
+Farm Scale,Cardington,Morrow,Complete Mix,Swine,,,,7000,200919,7008000,Electricity; Boiler/Furnace fuel; CNG,Consolidated Electric Cooperative,7560.738511,Yes
+Farm Scale,Ft Recovery,Mercer,Mixed Plug Flow,Poultry,,,1200000,,,7008000,Cogeneration,"Buckeye Power, Inc.",44642.07486,Yes
+Farm Scale,Turpin,Beaver,Covered Lagoon,Swine,,,,26500,,,Boiler/Furnace fuel,,9360.376914,
+Farm Scale,Tillamook,Tillamook,Mixed Plug Flow,Dairy,,2500,,,,5700000,Electricity,Pacific Power & Light (PacifCorp),22511.48083,Yes
+Multiple Farm/Facility,Tillamook,Tillamook,Mixed Plug Flow,Dairy,,2000,,,,8234400,Electricity,Tillamook People's Utility District (TPUD),20629.70795,Yes
+Farm Scale,Junction City,Lane,Anaerobic Sequencing Batch Reactor,Dairy,,1027,,,,1500000,Electricity,Emerald People's Utility District,7029.997828,
+Farm Scale,Aumsville,Marion,Anaerobic Sequencing Batch Reactor,Dairy,,750,,,,1228590,Electricity; Cogeneration,Pacific Power,5188.409909,
+Farm Scale,Dayton,Yamhill,Anaerobic Sequencing Batch Reactor,Dairy,,2540,,,,3100000,Electricity; Cogeneration,PGE,19046.49107,
+Farm Scale,Boardman,Morrow,Mixed Plug Flow,Dairy,,33000,,,,,Pipeline Gas,,278774.22,
+Farm Scale,Cochranville,Chester,Mixed Plug Flow,Dairy,,825,,,,,Electricity,PECO,4215.318982,
+Farm Scale,Conneautville,Crawford,Complete Mix,Dairy,,1600,,,247000,3225000,Cogeneration,Pennsylvania Power and Light (PPL) Electric Utilities Corp.,7004.757565,Yes
+Farm Scale,Homer City,Indiana,Horizontal Plug Flow,Dairy,,425,,,33000,334719,Cogeneration,,1488.412576,
+Farm Scale,Mount Joy,Lancaster,Complete Mix,Dairy,,1225,,,90000,1025303,Cogeneration,Pennsylvania Power and Light (PPL) Electric Utilities Corp.,3359.940462,Yes
+Farm Scale,Selinsgrove,Schuykill,Vertical Plug Flow,Swine,,,,1200,,163812,Cogeneration,,556.1558183,
+Farm Scale,Berlin,Somerset,Horizontal Plug Flow,Dairy,,400,,,44214,157108,Cogeneration,CCS/Allegheny Electrical Cooperative,1288.231703,Yes
+Farm Scale,Ulysses,Potter,Horizontal Plug Flow,Dairy,,650,,,40930,1103760,Cogeneration,,2503.813227,Yes
+Farm Scale,Shippensburg,Cumberland,Complete Mix,Dairy,,800,,,66997,1100000,Cogeneration,Pennsylvania Electric Company (Penelec),2893.533194,Yes
+Farm Scale,Rockwood,Somerset,Horizontal Plug Flow,Dairy,,600,,,49054,1200000,Cogeneration,"Allegheny Electric Cooperative, Somerset Rural Electric Company",2620.097987,
+Farm Scale,Beavertown,Snyder,Complete Mix,Swine,,,,14000,,1340280,Cogeneration,,12687.15254,Yes
+Farm Scale,Belleville,Mifflin,Complete Mix,Dairy,,350,,,,480000,Cogeneration,,1371.490012,
+Farm Scale,Mifflintown,Juniata,Complete Mix Mini Digester,Dairy,,340,,,,1182600,Electricity,,3588.152849,
+Farm Scale,Lancaster,Lancaster,Complete Mix,Dairy,,700,,,,1226400,Cogeneration,Pennsylvania Power and Light (PPL) Electric Utilities Corp.,2426.827561,
+Farm Scale,Newville,Cumberland,Complete Mix,Dairy,,915,,,,833000,Cogeneration,,3167.802363,
+Farm Scale,Gettysburg,Adams,Horizontal Plug Flow,Dairy,,2300,,,,4467600,Cogeneration,,21753.58948,
+Farm Scale,Bethel,Berks,Complete Mix,Dairy,,500,,,,730000,Electricity,,1990.855309,
+Farm Scale,Nottingham,Chester,Complete Mix,Cattle; Swine,130,,,4400,,262800,Electricity,,1226.544781,
+Farm Scale,Manheim,Lancaster,Complete Mix,Dairy,,400,,,,1051200,Cogeneration,Pennsylvania Power and Light (PPL) Electric Utilities Corp.,3978.80661,
+Farm Scale,Williamsburg,Blair,Complete Mix,Dairy,,800,,,50000,1261440,Cogeneration,Valley Rural Electric Co-op,3252.008408,Yes
+Farm Scale,Berlin,Somerset,Complete Mix,Dairy,,600,,,30363,395259,Electricity,Pennsylvania Electric Company (Penelec),2046.169582,
+Farm Scale,Danville,Northumberland,Complete Mix,Swine,,,,4400,11200,66430,Electricity,,1658.245123,
+Farm Scale,Mifflintown,Juniata,Complete Mix,Dairy,,800,,,288000,,Cogeneration,Pennsylvania Power and Light (PPL) Electric Utilities Corp.,5770.997117,Yes
+Farm Scale,Mifflintown,Juniata,Complete Mix,Dairy,,320,,,78765,1552452,Electricity,Pennsylvania Power and Light (PPL) Electric Utilities Corp.,1425.184461,Yes
+Farm Scale,Roaring Branch,Tioga,Complete Mix,Swine,,,,8800,,1419120,Electricity,Penelec,4233.830298,Yes
+Farm Scale,Quarryville,Lancaster,Complete Mix,Dairy,,787,,,,1401600,Electricity,,3313.742271,
+Farm Scale,Loganton,Clinton,Horizontal Plug Flow,Dairy,,650,,,85000,1600000,Cogeneration,Pennsylvania Power and Light (PPL) Electric Utilities Corp.,3052.394686,
+Farm Scale,Kirkwood,Lancaster,Complete Mix,Dairy; Poultry; Swine,,250,33000,2200,49093,879666,Cogeneration,Pennsylvania Power and Light (PPL) Electric Utilities Corp.,3258.125604,Yes
+Farm Scale,St. Thomas,Franklin,Covered Lagoon,Dairy,,790,,,,483990,Cogeneration,West Penn Power,1411.125911,
+Farm Scale,Narvon,Lancaster,Complete Mix,Dairy,,400,,,60561,688373,Cogeneration,Pennsylvania Power and Light (PPL) Electric Utilities Corp.,1667.121401,Yes
+Farm Scale,Mount Joy,Lancaster,Complete Mix,Dairy,,1100,,,170206,3354762,Cogeneration,Pennsylvania Power and Light (PPL) Electric Utilities Corp.,5627.070758,Yes
+Farm Scale,Nesmith,Williamsburg,Covered Lagoon,Swine,,,,9600,,1340280,Cogeneration,Santee Cooper,11336.26389,
+Farm Scale,Lamar,Darlingon,Horizontal Plug Flow,Poultry,,,150000,,,4020840,Electricity,Santee Cooper,8583.29128,
+Multiple Farm/Facility,Sumter,,Covered Lagoon,Poultry,,,,,,,Cogeneration,,8258.122139,
+Farm Scale,Baltic,Minnehaha,Complete Mix,Dairy,,3595,,,,,Pipeline Gas,,33733.562,
+Farm Scale,Lake Norden,Hamlin,Complete Mix,Dairy,,6500,,,,,Pipeline Gas,,60992.53212,
+Farm Scale,Milbank,Grant,Plug Flow - Unspecified,Dairy,,2400,,,,2792250,Electricity; Cogeneration; Boiler/Furnace fuel,,8835.523648,
+Farm Scale,Sherman,Minnehaha,Complete Mix,Dairy,,6244,,,,,Pipeline Gas,,58590.3647,
+Farm Scale,Baltic,Minnehaha,Complete Mix,Dairy,,1160,,,,,Pipeline Gas,,10884.82112,
+Farm Scale,Revillo,Grant,Complete Mix,Dairy,,5000,,,,,Pipeline Gas,,46917.3324,
+Farm Scale,Hico,Hamilton,Mixed Plug Flow,Dairy,,3712,,,,,Pipeline Gas,,38978.60797,
+Farm Scale,Friona,Parmer,Complete Mix,Dairy,,7500,,,668160,,Pipeline Gas,Atmos Pipeline,78755.26934,
+Farm Scale,Dumas,Moore,Covered Lagoon,Dairy,,2250,,,,,Pipeline Gas,,23400.00063,
+Farm Scale,Dalhert,Hartley,Covered Lagoon,Dairy,,32500,,,2000000,,Pipeline Gas,,338000.0091,
+Centralized/Regional,Dalhart,,Covered Lagoon,Swine,,,,42000,1050000,,CNG,,77948.54763,
+Farm Scale,Dublin,Erath,Mixed Plug Flow,Dairy,,7205,,,,,Pipeline Gas,,75657.56208,
+Farm Scale,Dalhart,Dallam,Covered Lagoon,Swine,,,,10000,,,Boiler/Furnace fuel,,12028.97663,
+Farm Scale,Dalhart,Dallam,Covered Lagoon,Swine,,,,108000,,,Boiler/Furnace fuel,,129912.9476,
+Farm Scale,Dimmit,Hart,Complete Mix,Dairy,,,,,,,,,,
+Farm Scale,Como,Hopkins,Mixed Plug Flow,Dairy,,4628,,,,,CNG,,43383.24279,
+Multiple Farm/Facility,Dumas,Moore,Covered Lagoon,Dairy,,37500,,,,,Pipeline Gas,,390000.0105,
+Farm Scale,Benson,Cache,Induced Blanket Reactor,Swine,,,,650,,297840,Cogeneration,,423.144882,
+Multiple Farm/Facility,Milford,,Covered Lagoon,Swine,,,,239200,623000,,Pipeline Gas,Dominion Energy,252435.0054,
+Farm Scale,Chester,Sanpete,Induced Blanket Reactor,Dairy,,750,,,,368580,Electricity,,6321.347572,
+Farm Scale,West Weber,Weber,Induced Blanket Reactor,Dairy,,1200,,,70000,823440,Cogeneration,PacifiCorp,3638.197705,
+Farm Scale,Chatham,Pittsylvania,Mixed Plug Flow,Dairy,,1200,,,,3350700,Cogeneration,Dominion Virginia Power,6317.053426,Yes
+Farm Scale,Bridport,Addison,Mixed Plug Flow,Dairy,,3900,,,,4204800,Cogeneration,Vermont Electric Cooperative,9483.371104,Yes
+Farm Scale,North Troy,Orleans,Complete Mix,Dairy,,1700,,,111114,1600000,Cogeneration,Vermont Electric Cooperative,13410.88048,Yes
+Farm Scale,Vergennes,Addison,Mixed Plug Flow,Dairy,,1200,,,,2700000,Cogeneration,Green Mountain Power (GMP) (formerly Central Vermont Public Service (CVPS)),10586.62227,Yes
+Farm Scale,Bristol,Addison,Mixed Plug Flow,Dairy,,1200,,,,3350700,Cogeneration,Green Mountain Power (GMP),5064.031689,Yes
+Farm Scale,Bakersfield,Franklin,Mixed Plug Flow,Dairy,,950,,,,780000,Cogeneration,Emosburg Electric,2673.489985,
+Farm Scale,Salisbury,Addison,Complete Mix,Dairy,,900,,,383562,,Pipeline Gas,Vermont Gas,7235.445307,
+Farm Scale,Sheldon,Frankin,Mixed Plug Flow,Dairy,,1050,,,115500,1800000,Cogeneration,Green Mountain Power (GMP) (formerly Central Vermont Public Service (CVPS)),3623.801503,Yes
+Farm Scale,Greensboro,Orleans,Mixed Plug Flow,Dairy,,45,,,,,Boiler/Furnace fuel,,157.2949805,
+Farm Scale,Enosburg Falls,Franklin,Mixed Plug Flow,Dairy,,850,,,,1675350,Cogeneration,Green Mountain Power (GMP) (formerly Central Vermont Public Service (CVPS)),3089.175441,Yes
+Farm Scale,Coventry,Orleans,Mixed Plug Flow,Dairy,,750,,,,1750000,Cogeneration,Vermont Electric Cooperative,2919.550788,Yes
+Farm Scale,Weybridge,Addison,Mixed Plug Flow,Dairy,,500,,,,788400,Cogeneration,Green Mountain Power (GMP) (formerly Central Vermont Public Service (CVPS)),1676.593458,Yes
+Farm Scale,Swanton,Franklin,Mixed Plug Flow,Dairy,,1200,,,132000,1400000,Cogeneration,Green Mountain Power (GMP) (formerly Central Vermont Public Service (CVPS)),3672.823661,Yes
+Farm Scale,Berkshire,Franklin,Mixed Plug Flow,Dairy,,1950,,,220000,3500000,Cogeneration,Green Mountain Power (GMP) (formerly Central Vermont Public Service (CVPS)),6841.988848,Yes
+Farm Scale,Putney,Windham,Mixed Plug Flow,Dairy,,1200,,,,1642500,Cogeneration,Green Mountain Power,3845.770781,Yes
+Farm Scale,Lynden,Whatcom,Mixed Plug Flow,Dairy,,2500,,,,6175800,Electricity,Puget Sound Energy,24657.48577,
+Farm Scale,Lynden,Whatcom,Mixed Plug Flow,Dairy,,2000,,,,6175800,Cogeneration,Puget Sound Energy,20606.88497,Yes
+Multiple Farm/Facility,Mount Vernon,Skagit,Mixed Plug Flow,Dairy,,1500,,,,6175800,Electricity,Puget Sound Energy,16556.28416,Yes
+Farm Scale,Outlook,Yakima,Mixed Plug Flow,Dairy,,4000,,,387360,9881280,Cogeneration,Pacific Power & Light (PacifCorp),39451.97724,Yes
+Multiple Farm/Facility,Monroe,Snohomish,Mixed Plug Flow,Dairy,,2000,,,,3705480,Electricity,Snohomish County PUD,18845.09227,Yes
+Multiple Farm/Facility,Enumclaw,King,Mixed Plug Flow,Dairy,,1500,,,,8234400,Electricity,Puget Sound Energy,18024.44475,
+Farm Scale,Lynden,Whatcom,Complete Mix,Dairy,,800,,,,2803200,Electricity,Puget Sound Energy,4173.803979,
+Farm Scale,Lynden,Whatcom,Mixed Plug Flow,Dairy,,1000,,,,4467600,Electricity,Puget Sound Energy,8482.68719,Yes
+Farm Scale,Dorchester,Clark,Mixed Plug Flow,Dairy,,2500,,,,,Electricity; Boiler/Furnace fuel,Dairyland Power Cooperative,23475.0975,
+Farm Scale,Dorchester,Clark,Mixed Plug Flow,Dairy,,1250,,,,2233800,Electricity,Dairyland Power Cooperative,11728.17751,
+Farm Scale,Baldwin,Saint Croix,Mixed Plug Flow,Dairy,,1050,,,130000,,Boiler/Furnace fuel,,9938.976991,Yes
+Centralized/Regional,Greenleaf,Brown,Complete Mix,Dairy,,30000,,,,,Pipeline Gas,,34165.38635,
+Farm Scale,Mondovi,Dunn,Unknown or Unspecified,Dairy,,5200,,,,,Pipeline Gas,,48083.8794,
+Farm Scale,Nekoosa,Wood,Mixed Plug Flow,Dairy,,3900,,,407000,6307200,Electricity,Dairyland Power Cooperative,36119.60345,Yes
+Farm Scale,Campbellsport,Fond du Lac,Mixed Plug Flow,Dairy,,2000,,,,,Pipeline Gas,,18493.79977,Yes
+Farm Scale,Waterloo,Dodge,Complete Mix,Dairy,,2450,,,223000,1801515,Cogeneration,"WE Energies, Inc.",6394.961432,
+Farm Scale,Casco,Kewaunee,Mixed Plug Flow,Dairy,,3000,,,,5956800,Electricity; Pipeline Gas,Wisconsin Public Service Corporation,28572.45547,Yes
+Farm Scale,New Franken,Kewaunee,Mixed Plug Flow,Dairy,,3000,,,242000,4432560,Cogeneration; Boiler/Furnace fuel,Wisconsin Public Service Corporation,11072.57947,Yes
+Farm Scale,New Franken,Kewaunee,Mixed Plug Flow,Dairy,,3157,,,,,CNG,,8325.375847,Yes
+Farm Scale,Brillion,Calumet,Mixed Plug Flow,Dairy,,2400,,,250000,,Pipeline Gas,,9062.309791,Yes
+Centralized/Regional,Middleton,Dane,Complete Mix,Dairy,,4200,,,,,Pipeline Gas,,38836.97952,
+Centralized/Regional,Vienna,Dane,Complete Mix,Dairy,,2500,,,,,Pipeline Gas,ANR Pipeline Company,23117.24971,
+Farm Scale,Kewaunee,Kewaunee,Mixed Plug Flow,Dairy,,1700,,,231000,,Pipeline Gas,,6419.136102,Yes
+Farm Scale,Elk Mound,Dunn,Complete Mix,Dairy,,1100,,,,Project Name,Flared Full-time,"Dairyland Power Cooperative; Stargest Power, LLC",8918.85904,Yes
+Farm Scale,Grantsburg,Burnett,Covered Lagoon,Dairy,,800,,,,,Flared Full-time,,6506.237785,Yes
+Farm Scale,Nelsonville,Portage,Mixed Plug Flow,Dairy,,850,,,93501,876051,Cogeneration,"Alliant Energy, Inc.",2866.334327,Yes
+Farm Scale,Krakow,Shawano,Complete Mix,Dairy,,4700,,,600000,,CNG,,38107.85226,Yes
+Farm Scale,Newton,Mantiowoc,Mixed Plug Flow,Dairy,,2400,,,,,Cogeneration; CNG,,13914.15873,Yes
+Farm Scale,Alma Center,Jackson,Complete Mix,Dairy; Swine,,1900,,2000,,3300000,Cogeneration,Xcel Energy,6543.65375,Yes
+Farm Scale,Hilbert,Calumet,Mixed Plug Flow,Dairy,,4000,,,363000,,Pipeline Gas,,15103.84965,Yes
+Farm Scale,Hilbert,Calumet,Mixed Plug Flow,Dairy,,4000,,,,,Pipeline Gas,,15103.84965,Yes
+Farm Scale,Casco,Kewaunee,Complete Mix,Dairy,,8300,,,1200000,,Pipeline Gas,,31340.48803,
+Farm Scale,Sheboygan Falls,Sheboygan,Plug Flow - Unspecified,Dairy,,650,,,,,Electricity,,1714.125531,
+Farm Scale,Cleveland,Manitowoc,Mixed Plug Flow,Dairy,,2000,,,,,Cogeneration; CNG,,22151.22459,Yes
+Farm Scale,Cleveland,Manitowoc,Mixed Plug Flow,Dairy,,4000,,,,,Electricity; CNG,,35637.17801,
+Centralized/Regional,Sun Prairie,Dane,Complete Mix,Dairy,,1300,,,,5000000,Electricity; Cogeneration,"Alliant Energy, Inc.",6994.171061,
+Farm Scale,Grand Marsh,Adams,Unknown or Unspecified,Dairy,,9100,,,1200000,,Pipeline Gas,,34361.25796,
+Farm Scale,Chili,Clark,Mixed Plug Flow,Dairy,,2600,,,242000,3705360,Cogeneration,Dairyland Power Cooperative,23723.54302,Yes
+Farm Scale,Kewaunee,Kewaunee,Mixed Plug Flow,Dairy,,5000,,,,,CNG,,40540.26836,Yes
+Farm Scale,Pickett,Winnebago,Complete Mix,Dairy,,10000,,,1050000,,Electricity; Pipeline Gas,,88697.66621,
+Farm Scale,Sturgeon Bay,Door,Mixed Plug Flow,Dairy,,6000,,,,,Pipeline Gas,,19561.17401,
+Multiple Farm/Facility,Sun Prairie,Dane,Mixed Plug Flow,Dairy,,2100,,,360000,,Pipeline Gas,,7929.521067,Yes
+Centralized/Regional,Marshall,Dane,Mixed Plug Flow,Dairy,,2500,,,,,Pipeline Gas,,9439.906032,Yes
+Farm Scale,Suring,Oronto,Complete Mix,Dairy,,810,,,,2000000,Cogeneration,Wisconsin Public Service Corporation,7993.891475,Yes
+Farm Scale,Pickett,Winnebago,Complete Mix,Dairy,,8500,,,576000,12491760,Electricity,Alliant Energy,77827.37958,
+Farm Scale,Oshkosh,Winnebago County,Mixed Plug Flow,Dairy,,185,,,25900,481800,Cogeneration,WPS,831.4785484,
+Farm Scale,Fond du Lac,Fond du Lac,Complete Mix,Dairy,,2000,,,,6701400,Cogeneration,"Alliant Energy, Inc.",20995.4386,Yes
+Farm Scale,Kewaskum,Fond du Lac,Mixed Plug Flow,Dairy,,825,,,,1675350,Cogeneration,"WE Energies, Inc.",3370.45368,
+Farm Scale,Kewaunee,Kewaunee,Mixed Plug Flow,Dairy,,2100,,,,4467600,Electricity,,8724.16486,
+Farm Scale,LaFarge,Vernon,Complete Mix,Dairy,,880,,,,Project Name,Flared Full-time,Dairyland Power Cooperative,2320.662257,Yes
+Farm Scale,Gillett,Oconto,Mixed Plug Flow,Dairy,,7120,,,,,Pipeline Gas,,65837.92718,
+Farm Scale,Carpenter,Laramie,Mixed Plug Flow,Dairy,,6210,,,,,Pipeline Gas,,7046.931809,
+Farm Scale,Wheatland,Platte,Complete Mix,Swine,,,,5000,,595680,Electricity,,1176.823992,
+Farm Scale,Dos Palos,Merced,Complete Mix,Dairy,,5420,,,,,,,,
+Farm Scale,Imperial,Imperial,Covered Lagoon,Dairy,,3300,,,,2233800,Electricity,IDD Energy,,
+Farm Scale,San Luis Obispo,San Luis Obispo,Covered Lagoon,Dairy,,175,,,,236520,Electricity,,,
+Farm Scale,Galt,Sacramento,Covered Lagoon,Dairy,,900,,,33000,552802,Electricity,,,Yes
+Farm Scale,Lemoore,Kings,Horizontal Plug Flow,Dairy,,1100,,,42740,500991,Cogeneration,Pacific Gas and Electric Company,,
+Centralized/Regional,Chino,San Bernardino,Horizontal Plug Flow,Dairy,,3225,,,108077,4931880,Electricity,,,
+Centralized/Regional,Ontario,San Bernardino,Complete Mix,Dairy,,,,,,7446000,Electricity,,,
+Farm Scale,Tulare,Tulare,Horizontal Plug Flow,Dairy,,2000,,,44193,615755,Electricity,,,
+Farm Scale,Durham,Butte,Horizontal Plug Flow,Dairy,,750,,,30000,300000,Cogeneration,Pacific Gas and Electric Company,,
+Farm Scale,Tulare,Tulare,Covered Lagoon,Dairy,,2640,,,55000,,Flared Full-time,,,
+Farm Scale,El Mirage,San Bernardino,Horizontal Plug Flow,Dairy,,2000,,,87000,353000,Electricity,,,
+Farm Scale,Galt,Sacramento,Complete Mix,Dairy,,1700,,,90000,1830000,Electricity,SMUD (Sacramento Utility District),,
+Farm Scale,Tulare,Tulare,Covered Lagoon,Swine,,,,7500,94500,744600,Cogeneration,Southern California Edison,,
+Farm Scale,Petaluma,Sonoma,Covered Lagoon,Dairy,,240,,,12000,350400,Cogeneration; Refrigeration,,,
+Farm Scale,Elk Grove,Sacramento,Covered Lagoon,Dairy,,900,,,113000,1599070,Electricity,Sacramento Municipal Utility District (SMUD),,Yes
+Farm Scale,Lakeside,San Diego,Horizontal Plug Flow,Dairy,,550,,,,,,,,
+Farm Scale,Lakeside,San Diego,Horizontal Plug Flow,Dairy,,624,,,33935,489465,Electricity,,,
+Farm Scale,Riverdale,Fresno,Covered Lagoon,Dairy,,5000,,,300000,,Pipeline Gas,Pacific Gas and Electric Company,,
+Centralized/Regional,Eaton,Weld,Complete Mix,Other Farm Type,,,,,,,Pipeline Gas,Colorado Interstate Gas Company,,
+Farm Scale,North Franklin,New London,Complete Mix,Dairy,,600,,,42500,462500,Electricity,,,
+Farm Scale,Baxley,Appling,Mixed Plug Flow,Dairy,,1135,,,58000,263840,Electricity; Boiler/Furnace fuel,,,Yes
+Farm Scale,Central City,Linn,Horizontal Plug Flow,Dairy,,380,,,,394200,Electricity,,,
+Farm Scale,Riceville,Howard,Mixed Plug Flow,Cattle; Swine,5000,,,4000,,5000000,Electricity,,,Yes
+Farm Scale,Mt. Pleasant,Henry,Unknown or Unspecified,Swine,,,,1150,,,Flared Full-time,,,
+Farm Scale,Thayer,Union,Complete Mix,Swine,,,,5000,,473040,Electricity,,,
+Farm Scale,,,Complete Mix,Swine,,,,5000,,,Electricity,,,
+Farm Scale,Wendell,Gooding,Induced Blanket Reactor,Dairy,,,,,,,Pipeline Gas,,,
+Farm Scale,Rupert,Minidoka,Induced Blanket Reactor,Dairy,,2900,,,55700,,Pipeline Gas,Intermountain Gas,,
+Farm Scale,Elmwood,Peoria,Horizontal Plug Flow,Dairy,,1400,,,,1524240,Cogeneration,AmerenCILCO,,
+Farm Scale,Freeport,Stephenson,Mixed Plug Flow,Dairy,,650,,,,893520,Electricity,Commonwealth Edison,,
+Farm Scale,Fair Oaks,Jasper,Vertical Plug Flow,Dairy,,3000,,,200000,5212200,Electricity,,,
+Research,Bowling Green,Warren,Plug Flow - Unspecified,Dairy,,30,,,,,Flared Full-time,,,
+Farm Scale,Colora,Cecil,Covered Lagoon,Dairy,,656,,,19334,430000,Electricity,,,Yes
+Farm Scale,Sturgis,St. Joseph,Horizontal Plug Flow,Dairy,,720,,,53500,620000,Electricity,,,
+Centralized/Regional,Fremont,Newaygo,Complete Mix,Swine,,,,,1000000,22338000,Electricity,Consumers Energy Company,,
+Centralized/Regional,Lowell,Kent,Complete Mix,Dairy,,1770,,,,,Electricity,Lowell Light & Power,,
+Multiple Farm/Facility,Altura,Winona,Complete Mix,Dairy,,1070,,,146430,59831,Cogeneration,Xcel Energy,,Yes
+Farm Scale,Hancock,Stevens,Mixed Plug Flow,Dairy,,5520,,,,12088800,Cogeneration,Otter Tail Power,,
+Farm Scale,Brooten,Stearns,Induced Blanket Reactor,Dairy,,270,,,,156950,Electricity,,,Yes
+Farm Scale,Morris,Stevens,Mixed Plug Flow,Dairy,,7665,,,,15859980,Electricity,,,Yes
+Farm Scale,Morris,Stevens,Mixed Plug Flow,Dairy,,6300,,,,15859980,Electricity,,,Yes
+Farm Scale,Green City,Sullivan,Covered Lagoon,Swine,,,,107000,,,Boiler/Furnace fuel,,,
+Farm Scale,Piney Woods,Rankin,Covered Lagoon,Swine,,,,145,,35040,Electricity,,,
+Farm Scale,Osyka,Pike,Complete Mix,Poultry,,,120000,,,1489200,Electricity,,,Yes
+Farm Scale,Princeton,Johnston,Complete Mix,Poultry,,,70000,,42000,520000,Electricity,,,
+Farm Scale,Greenville,Pitt,Fixed Film/Attached Media,Swine,,,,12000,,989880,Electricity,,,Yes
+Farm Scale,Kenansville,Duplin,Covered Lagoon,Swine,,,,9792,41879,744600,Electricity,,,
+Farm Scale,Fremont,Wayne,Covered Lagoon,Swine,,,,,,,,Duke Energy,,
+Farm Scale,Mead,Saunders,Complete Mix,Cattle,28000,,,,,,Boiler/Furnace fuel,,,
+Farm Scale,Dodge,Colfax,Complete Mix,Swine,,,,7500,35000,730000,Cogeneration; CNG,Nebraska Public Power District (NPPD),,Yes
+Farm Scale,La Mesa,Do±a Ana,Anaerobic Sequencing Batch Reactor,Dairy,,,,,,,Electricity,,,
+Farm Scale,Cooperstown,Otsego,Complete Mix,Dairy,,270,,,25000,325000,Cogeneration,,,
+Farm Scale,Aquebogue,Suffolk,Complete Mix,Poultry,,,130000,,,,Electricity,,,
+Farm Scale,Newark,Wayne,Horizontal Plug Flow,Dairy,,1500,,,,,Boiler/Furnace fuel,,,
+Farm Scale,Perry,Wyoming,Horizontal Plug Flow,Dairy,,1200,,,110400,1305240,Cogeneration,New York State Electric and Gas (NYSEG),,Yes
+Farm Scale,East Jewett,Greene,Fixed Film/Attached Media,Dairy,,100,,,,,Boiler/Furnace fuel,,,
+Farm Scale,Homer,Cortland,Complete Mix,Dairy,,1100,,,,,Cogeneration; Boiler/Furnace fuel,New York State Electric and Gas (NYSEG),,
+Farm Scale,Homer,Cortland,Horizontal Plug Flow,Dairy,,850,,,,521220,Cogeneration; Boiler/Furnace fuel,,,
+Farm Scale,LINWOOD,Livingston,Horizontal Plug Flow,Dairy,,3700,,,111000,788400,Cogeneration,,,
+Farm Scale,Auburn,Cayuga,Complete Mix,Dairy,,1900,,,173300,3092280,Cogeneration,,,Yes
+Farm Scale,Schodack,Rensselaer,Covered Lagoon,Dairy,,236,,,6000,219000,Electricity,,,
+Research,Morrisville,Madison,Horizontal Plug Flow,Dairy,,505,,,23320,342654,Cogeneration,,,
+Farm Scale,Napoleon,Henry,Complete Mix,Dairy,,,,,121295,22000000,Cogeneration,American Municipal Power,,
+Farm Scale,Salem,Marion,Complete Mix,Dairy,,350,,,,306600,Cogeneration,,,
+Farm Scale,Cloverdale,Tillamook,Horizontal Plug Flow,Dairy,,1000,,,42000,744600,Electricity,,,
+Centralized/Regional,Tillamook,Tillamook,Complete Mix,Dairy,,5000,,,,8935200,Cogeneration,Tillamook Public Utility District,,
+Farm Scale,Boardman,Morrow,Fixed Film/Attached Media,Dairy,,1200,,,80000,,Boiler/Furnace fuel,,,
+Farm Scale,Somerset,Somerset,Plug Flow - Unspecified,Poultry,,,72000,,28000,365000,,,,
+Farm Scale,Lancaster,Lancaster,Horizontal Plug Flow,Swine,,,,1000,60000,967980,Cogeneration,,,
+Farm Scale,Pitman,Schuykill,Complete Mix,Cattle; Poultry,1000,,120000,,,386316,Cogeneration,,,
+Farm Scale,White,Brookings,Covered Lagoon,Dairy,,1150,,,,,Flared Full-time,,,
+Farm Scale,Hico,Hamilton,Covered Lagoon,Dairy,,980,,,47000,700800,Cogeneration,,,
+Centralized/Regional,Stephenville,Erath,Complete Mix,Dairy,,10000,,,2739726,,Pipeline Gas,Lower Colorado River Authority (to to Sept 08); PG&E (from Oct 08); Alcor Energy gets thermal energy,,
+Farm Scale,Godley,Johnson,Horizontal Plug Flow,Dairy,,455,,,14000,208000,Cogeneration,,,
+Multiple Farm/Facility,Milford,Beaver,Covered Lagoon,Swine,,,,220000,,23827200,Electricity,Pine Valley Electric,,
+Farm Scale,South Boston,Halifax,Covered Lagoon,Swine,,,,3000,12000,163000,Electricity,,,
+Research,Charlotte,Chittenden,Modular Plug Flow,Dairy,,160,,,5000,148920,Cogeneration,Green Mountain Power,,
+Farm Scale,Middlebury,Addison,Horizontal Plug Flow,Dairy,,380,,,37500,480000,Electricity; Cogeneration,,,
+Farm Scale,Greensboro,Orleans,Complete Mix,Dairy,,450,,,,723000,Cogeneration,Hardwick Electric Company,,
+Farm Scale,Hyde Park,Lamoille,Complete Mix,Dairy,,350,,,33450,223380,Cogeneration,Vermont Electric Cooperative,,
+Farm Scale,Stowe,Lamoille,Modular Plug Flow,Dairy,,120,,,5000,87600,Cogeneration,Stowe Electric,,
+Farm Scale,Randolph Center,Orange,Unknown or Unspecified,Dairy,,60,,,,,,,,
+Farm Scale,Shelburne,Chittenden,Vertical Plug Flow,Dairy,,250,,,,483990,Cogeneration,,,
+Farm Scale,Williston,Chittenden,Fixed Film/Attached Media,Dairy,,250,,,,,Boiler/Furnace fuel,,,
+Farm Scale,Franklin,Franklin,Complete Mix,Dairy,,450,,,,1340280,Cogeneration,Green Mountain Power (GMP) (formerly Central Vermont Public Service (CVPS)),,Yes
+Farm Scale,Randolph Center,Orange,Complete Mix,Dairy,,,,,,2280000,Cogeneration,Green Mountain Power (GMP) (formerly Central Vermont Public Service (CVPS)),,
+Farm Scale,Carnation,Ling,Microdigester,Poultry,,,,,,,Electricity,,,Yes
+Farm Scale,Markesan,Green Lake,Mixed Plug Flow,Dairy,,1100,,,,1489200,Cogeneration,"Alliant Energy, Inc.",,
+Farm Scale,Emerald,St. Croix,Mixed Plug Flow,Dairy,,1600,,,,819060,Cogeneration,,,Yes
+Farm Scale,Malone,Fond du Lac,Mixed Plug Flow,Dairy,,2550,,,,2562409,Cogeneration,"WE Energies, Inc.",,Yes
+Farm Scale,Franksville,Racine,Complete Mix,Poultry,,,500000,,,188902,Electricity,,,
+Farm Scale,Rice Lake,Barron,Complete Mix,Dairy,,1240,,,2908000,6450000,Electricity,Dairyland Power Cooperative; Barron Electric,,Yes
+Farm Scale,Weyauwega,Waupaca,Mixed Plug Flow,Dairy,,1200,,,,3350700,Cogeneration,"WE Energies, Inc.",,Yes
+Farm Scale,Denmark,Brown,Horizontal Plug Flow,Dairy,,1000,,,,946080,Electricity,Wisconsin Public Service Corporation,,
+Farm Scale,Wrightstown,Jackson,Fixed Film/Attached Media,Dairy,,1800,,,200000,5584500,Electricity; Boiler/Furnace fuel,,,
+Farm Scale,Chaseburg,Vernon,Complete Mix,Dairy,,200,,,23000,,Electricity,Dairyland Power Cooperative,,
+Farm Scale,Wheatland,Platte,Complete Mix,Swine,,,,18000,,1340280,Electricity,,,
