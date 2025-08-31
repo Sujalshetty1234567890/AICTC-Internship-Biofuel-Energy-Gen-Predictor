@@ -7,12 +7,33 @@ Welcome to the Efficient Biofuel Energy Generation prediction project, the pytho
 
 Problem Statement 
 
-Prediciting Efficient Biofuel Energy Generation using livestock and comparing the CO2 Emission with fossil fuels to findout the sustainability and harm compared to other traditional fossil fuels and it's other advantages.
+Prediciting Efficient Biofuel Energy Generation using livestock in a plant and comparing the CO2 Emission with fossil fuels to findout the sustainability and harm compared to other traditional fossil fuels and it's other advantages(Biofuels).
 
 Project Structure 
 
-Biofuel Energy Generation.ipynb-Notebook for EDA, Analysis, Visualisation and Data Splitting
+Biofuel_Energy_Generation.ipynb-Notebook for EDA, Analysis, Visualisation and Data Splitting
 
-CO2 Emissions.csv-Dataset from kaggle
+CO2_Emissions.csv-Dataset from kaggle
 
-BIOFUEL PLANT DATA 1.CLEANED.xlsx-Dataset from kaggle
+BIOFUEL_PLANT_DATA_1.CLEANED.xlsx-Dataset from kaggle
+
+ 
+How to Run:-
+
+
+
+
+Run in Google Colab and Install required libraries:
+pandas
+numpy
+matplotlib
+seaborn
+
+
+Download CO2_Emissions.csv and BIOFUEL_PLANT_DATA_1 and  from Kaggle and place it in this folder
+
+
+Open Biofuel_Energy_Generation.ipynb in Google Colab
+
+
+Run all cells to see the analysis and visualizations
