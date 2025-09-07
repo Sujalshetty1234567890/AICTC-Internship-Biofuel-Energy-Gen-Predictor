@@ -37,3 +37,11 @@ Open Biofuel_Energy_Generation.ipynb in Google Colab
 
 
 Run all cells to see the analysis and visualizations
+
+
+
+
+MODEL USED
+
+
+LINEAR REGRESSION WITH LINEAR REGRESSION CHART
