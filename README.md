@@ -45,3 +45,8 @@ MODEL USED
 
 
 LINEAR REGRESSION WITH LINEAR REGRESSION CHART
+
+
+by putting the data through various algorithms like linear regression, logistic regression, KMean, etc, it best works out with Linear regression model with much more accuracy
+
+but we will be working on the model even more even after completion to bring it to the best output and make the model accuacy the best ever 
