@@ -1,0 +1,527 @@
+City,County,Digester Type,Animal/Farm Type(s),Dairy,Biogas Generation Estimate (cu-ft/day),Electricity Generated (kWh/yr),Biogas End Use(s),CO2 Emission by Biofuel (g/hr),CO2 Emissions by Fossil Fuels (g/hr),Total Emission Reduction(g/hr)
+Morrilton,Conway,Covered Lagoon,Dairy ,12300,1402200,,Flared Full-time,134,196,62
+Buckeye,Maricopa,Mixed Plug Flow,Dairy ,11760,1093680,,Pipeline Gas,78,221,143
+Eloy,Pinal,Unknown or Unspecified,Dairy ,8800,924000,,Pipeline Gas,159,136,-23
+Maricopa,Pinal,Complete Mix,Dairy ,30000,3600000,,Pipeline Gas,112,255,143
+Gila Bend,Maricopa,Complete Mix,Dairy ,10000,1200000,,CNG,144,244,100
+Buckeye,Maricopa,Covered Lagoon,Dairy ,15000,1710000,5256000,Electricity,153,230,77
+Tonopah,Maricopa,Mixed Plug Flow,Dairy ,4954,460722,,Pipeline Gas,125,232,107
+Buckeye,Maricopa,Covered Lagoon,Dairy ,4000,456000,4467600,Cogeneration,119,255,136
+Pixley,Tulare,Covered Lagoon,Dairy ,5000,570000,,CNG,88,267,179
+Bakersfield,Kern,Covered Lagoon,Dairy ,15500,1767000,16206000,Electricity,138,212,74
+Bakersfield,Kern,Covered Lagoon,Dairy ,1700,193800,4204800,Electricity,93,225,132
+Bakersfield,Kern,Covered Lagoon,Dairy ,9700,1105800,7600000,Cogeneration; Refrigeration,165,239,74
+Bakersfield,Kern,Covered Lagoon,Dairy ,7000,798000,6700000,Electricity; CNG,72,193,121
+Buttonwillow,Kern,Covered Lagoon,Dairy ,7000,798000,7600000,Electricity,100,359,259
+Ceres,Stanislaus,Covered Lagoon,Dairy ,4300,490200,,Boiler/Furnace fuel; CNG,129,359,230
+Denair,Stanislaus,Covered Lagoon,Dairy ,5000,570000,,CNG,121,338,217
+Hilmar,Merced,Covered Lagoon,Dairy ,6500,741000,,CNG,83,354,271
+Crows Landing,Stanislaus,Covered Lagoon,Dairy ,4750,541500,,CNG,158,338,180
+Buttonwillow,Kern,Covered Lagoon,Dairy ,6500,741000,,CNG,143,354,211
+Crows Landing,Stanislaus,Covered Lagoon,Dairy ,2000,228000,,CNG,79,359,280
+Dos Palos,Merced,Complete Mix,Dairy ,5420,650400,,Pipeline Gas,139,202,63
+Visalia,Tulare,Covered Lagoon,Dairy ,2000,228000,,CNG,135,230,95
+Tulare,Tulare,Covered Lagoon,Dairy ,7700,877800,,CNG,103,214,111
+Wasco,Kern,Covered Lagoon,Dairy ,4000,456000,,CNG,145,230,85
+Kerman,Fresno,Covered Lagoon,Dairy ,19100,2177400,,Electricity,120,230,110
+Bakersfield,Kern,Covered Lagoon,Dairy ,5700,649800,,CNG,150,214,64
+Point Reyes Station,Marin,Covered Lagoon,Dairy ,400,45600,,Cogeneration,104,235,131
+Tulare,Tulare,Covered Lagoon,Dairy ,6700,763800,,CNG,82,251,169
+Bakersfield,Kern,Covered Lagoon,Dairy ,6900,786600,,CNG,122,217,95
+Lodi,San Joaquin,Covered Lagoon,Dairy ,3213,366282,2233800,Electricity,115,262,147
+Hilmar,Merced,Covered Lagoon,Dairy ,4500,513000,,CNG,116,217,101
+Pixley,Tulare,Covered Lagoon,Dairy ,4370,498180,,CNG,110,258,148
+Hilmar,Merced,Covered Lagoon,Dairy ,6500,741000,,CNG,118,265,147
+Hanford,Kings,Covered Lagoon,Dairy ,5900,672600,,CNG,141,224,83
+Tipton,Tulare,Covered Lagoon,Dairy ,7425,846450,,CNG,147,258,111
+Tipton,Tulare,Covered Lagoon,Dairy ,4000,456000,,Electricity,85,288,203
+Madera,Madera,Covered Lagoon,Dairy ,9900,1128600,,CNG,117,363,246
+Atwater,Merced,Covered Lagoon,Dairy ,5000,570000,,Cogeneration; Boiler/Furnace fuel,142,224,82
+Corcoran,Tulare,Covered Lagoon,Dairy ,5700,649800,,CNG,101,242,141
+Tulare,Tulare,Covered Lagoon,Dairy ,6500,741000,,CNG,98,239,141
+Tipton,Tulare,Covered Lagoon,Dairy ,4000,456000,,CNG,114,258,144
+Tulare,Tulare,Covered Lagoon,Dairy ,6500,741000,,CNG,151,244,93
+Hanford,Kings,Covered Lagoon,Dairy ,,0,,CNG,,212,74
+Tulare,Tulare,Covered Lagoon,Dairy ,10350,1179900,,CNG,162,304,142
+Hanford,Kings,Covered Lagoon,Dairy ,6500,741000,,CNG,124,290,166
+Chowchilla,Madera,Covered Lagoon,Dairy ,,0,,CNG,,336,180
+Ceres,Stanislaus,Covered Lagoon,Dairy ,8350,951900,,Boiler/Furnace fuel; CNG,123,407,284
+El Nido,Merced,Covered Lagoon,Dairy ,9500,1083000,,CNG,77,347,270
+Visalia,Tulare,Covered Lagoon,Dairy ,10700,1219800,,CNG,146,409,263
+Hanford,Kings,Covered Lagoon,Dairy ,,0,,CNG,,336,263
+Tulare,Tulare,Covered Lagoon,Dairy ,8300,946200,,CNG,132,407,275
+Tipton,Tulare,Covered Lagoon,Dairy ,4800,547200,,CNG,99,347,248
+Tulare,Tulare,Covered Lagoon,Dairy ,2000,228000,,CNG,154,409,255
+Visalia,Tulare,Covered Lagoon,Dairy ,6500,741000,,CNG,160,306,146
+Porterville,Tulare,Covered Lagoon,Dairy ,4000,456000,,CNG,149,308,159
+Modesto,Stanislaus,Complete Mix,Dairy ,2513,301560,3324000,Cogeneration,128,293,165
+Merced,Merced,Covered Lagoon,Dairy ,2000,228000,,CNG,155,262,107
+Tipton,Tulare,Covered Lagoon,Dairy ,5200,592800,,CNG,164,285,121
+Tulare,Tulare,Covered Lagoon,Dairy ,6500,741000,,CNG,157,262,105
+Visalia,Tulare,Covered Lagoon,Dairy ,6500,741000,,CNG,127,285,158
+Los Banos,Merced,Covered Lagoon,Dairy ,4700,535800,,CNG,140,267,127
+Tulare,Tulare,Covered Lagoon,Dairy ,8300,946200,,CNG,148,281,133
+Pixley,Tulare,Covered Lagoon,Dairy ,16000,1824000,,CNG,137,281,144
+Hanford,Kings,Covered Lagoon,Dairy ,5333,607962,,CNG,152,300,148
+Lindsay,Tulare,Covered Lagoon,Dairy ,1500,171000,5072040,Electricity; CNG,166,292,126
+Hanford,Kings,Covered Lagoon,Dairy ,2900,330600,,CNG,167,209,42
+Merced,Merced,Covered Lagoon,Dairy ,4000,456000,,CNG,161,209,48
+Merced,Merced,Covered Lagoon,Dairy ,,0,,CNG,,237,69
+Tipton,Tulare,Covered Lagoon,Dairy ,10000,1140000,,CNG,169,237,68
+Visalia,Tulare,Covered Lagoon,Dairy ,1400,159600,,CNG,136,314,178
+Hilmar,Merced,Covered Lagoon,Dairy ,4000,456000,,CNG,133,356,223
+Wasco,Kern,Covered Lagoon,Dairy ,12500,1425000,,CNG,131,332,201
+Dos Palos,Merced,Covered Lagoon,Dairy ,,0,,Pipeline Gas,,380,250
+Tipton,Tulare,Covered Lagoon,Dairy ,6500,741000,,CNG,126,380,254
+Pixley,Tulare,Covered Lagoon,Dairy ,9185,1047090,,CNG,113,388,275
+Crows Landing,Stanislaus,Covered Lagoon,Dairy ,2054,234156,,CNG,111,437,326
+Hanford,Kings,Covered Lagoon,Dairy ,3000,342000,,CNG,109,193,84
+Pixley,Tulare,Covered Lagoon,Dairy ,2558,291612,,CNG,108,200,92
+Tipton,Tulare,Covered Lagoon,Dairy ,6949,792186,,CNG,107,202,95
+Hanford,Kings,Covered Lagoon,Dairy ,13400,1527600,,CNG,106,181,75
+Bakersfield,Kern,Covered Lagoon,Dairy ,15800,1801200,,CNG,105,181,76
+Buttonwillow,Kern,Covered Lagoon,Dairy ,9500,1083000,,CNG,102,193,91
+Bakersfield,Kern,Covered Lagoon,Dairy ,6500,741000,,CNG,96,200,104
+Merced,Merced,Covered Lagoon,Dairy ,,0,,CNG,,209,114
+Visalia,Tulare,Covered Lagoon,Dairy ,5700,649800,,CNG,94,209,115
+Merced,Merced,Covered Lagoon,Dairy ,6500,741000,,CNG,92,209,117
+Visalia,Tulare,Covered Lagoon,Dairy ,8100,923400,,CNG,91,221,130
+Visalia,Tulare,Covered Lagoon,Dairy ,5000,570000,6000000,Electricity; CNG,90,230,140
+Galt,Sacramento,Covered Lagoon,Dairy ,1700,193800,1830000,Electricity,89,228,139
+Bakersfield,Kern,Covered Lagoon,Dairy ,6500,741000,,CNG,87,237,150
+Tipton,Tulare,Covered Lagoon,Dairy ,6500,741000,,CNG,86,232,146
+Hilmar,Merced,Covered Lagoon,Dairy ,2000,228000,,CNG,84,193,109
+Stevinson,Merced,Covered Lagoon,Dairy ,2000,228000,,CNG,81,200,119
+Riverdale,Fresno,Covered Lagoon,Dairy ,4000,456000,6464301,Electricity,80,209,129
+Corcoran,Kings,Covered Lagoon,Dairy ,8000,912000,,Electricity,76,221,145
+Pixley,Tulare,Mixed Plug Flow,Dairy ,2500,232500,9709000,Cogeneration,75,230,155
+Pixley,Tulare,Covered Lagoon,Dairy ,11209,1277826,,CNG,74,228,154
+Hanford,Kings,Covered Lagoon,Dairy ,6500,741000,,CNG,71,237,166
+Visalia,Tulare,Covered Lagoon,Dairy ,6600,752400,,CNG,97,202,105
+Tulare,Tulare,Covered Lagoon,Dairy ,9300,1060200,,CNG,98,209,111
+Merced,Merced,Covered Lagoon,Dairy ,,0,,CNG,,213,131
+Chowchilla,Madera,Covered Lagoon,Dairy ,,0,,CNG,,232,110
+Tulare,Tulare,Covered Lagoon,Dairy ,2000,228000,,CNG,115,246,131
+Tulare,Tulare,Covered Lagoon,Dairy ,6500,741000,,CNG,116,281,165
+Tulare,Tulare,Covered Lagoon,Dairy ,4500,513000,,CNG,110,292,182
+Hanford,Kings,Covered Lagoon,Dairy ,13800,1573200,,CNG,118,232,114
+Tulare,Tulare,Covered Lagoon,Dairy ,6700,763800,,CNG,141,292,151
+Pixley,Tulare,Covered Lagoon,Dairy ,6640,756960,,CNG,147,281,134
+Visalia,Tulare,Covered Lagoon,Dairy ,,0,,CNG,,292,207
+Pixley,Tulare,Covered Lagoon,Dairy ,2655,302670,,CNG,117,246,129
+Hanford,Kings,Covered Lagoon,Dairy ,,0,,CNG,,292,150
+Merced,Merced,Covered Lagoon,Dairy ,,0,,CNG,,292,191
+Riverdale,Fresno,Mixed Plug Flow,Dairy ,1700,158100,,Electricity,114,356,242
+Ceres,Stanislaus,Covered Lagoon,Dairy ,2000,228000,,CNG,151,191,40
+Visalia,Tulare,Covered Lagoon,Dairy ,6800,775200,,CNG,138,214,76
+Tulare,Tulare,Covered Lagoon,Dairy ,4700,535800,,CNG,162,212,50
+Tipton,Tulare,Covered Lagoon,Dairy ,2200,250800,,CNG,124,292,168
+Tipton,Tulare,Covered Lagoon,Dairy ,6500,741000,,CNG,156,292,136
+Shafter,Kern,Covered Lagoon,Dairy ,4000,456000,,CNG,123,338,215
+Tipton,Tulare,Covered Lagoon,Dairy ,2100,239400,,CNG,77,317,240
+Buttonwillow,Kern,Covered Lagoon,Dairy ,6500,741000,,CNG,146,338,192
+Madera,Madera,Covered Lagoon,Dairy ,9500,1083000,,Electricity,73,317,244
+Hanford,Kings,Covered Lagoon,Dairy ,10600,1208400,,CNG,132,338,206
+Marshall,Marin,Covered Lagoon,Dairy ,417,47538,345600,Cogeneration,99,317,218
+Bakersfield,Kern,Covered Lagoon,Dairy ,10400,1185600,,CNG,154,338,184
+Bakersfield,Kern,Covered Lagoon,Dairy ,5200,592800,,CNG,160,317,157
+Ceres,Stanislaus,Covered Lagoon,Dairy ,5200,592800,,CNG,149,209,60
+Visalia,Tulare,Covered Lagoon,Dairy ,2100,239400,,CNG,128,260,132
+Hanford,Kings,Covered Lagoon,Dairy ,3300,376200,,CNG,155,230,75
+Tipton,Tulare,Covered Lagoon,Dairy ,2631,299934,5439007,Electricity,164,253,89
+Helm,Fresno,Covered Lagoon,Dairy ,6500,741000,,CNG,157,255,98
+Riverdale,Fresno,Covered Lagoon,Dairy ,6500,741000,,CNG,127,320,193
+Elk Grove,Sacramento,Covered Lagoon,Dairy ,700,79800,,Electricity,140,370,230
+Galt,Sacramento,Covered Lagoon,Dairy ,1810,206340,2190000,Electricity; Cogeneration,148,274,126
+Pixley,Tulare,Covered Lagoon,Dairy ,10560,1203840,,CNG,137,324,187
+Merced,Merced,Covered Lagoon,Dairy ,,0,,CNG,,209,57
+Riverdale,Fresno,Covered Lagoon,Dairy ,5100,581400,,CNG,166,200,34
+Hanford,Kings,Covered Lagoon,Dairy ,17900,2040600,,Electricity,167,278,111
+Madera,Madera,Covered Lagoon,Dairy ,4500,513000,,Electricity,161,253,92
+Chowchilla,Madera,Covered Lagoon,Dairy ,,0,,CNG,,278,110
+Chowchilla,Madera,Mixed Plug Flow,Dairy ,14850,1381050,,Pipeline to Electricity,169,283,114
+Bakersfield,Kern,Covered Lagoon,Dairy ,10300,1174200,,CNG,136,290,154
+Wasco,Kern,Covered Lagoon,Dairy ,4000,456000,,CNG,133,196,63
+Hilmar,Merced,Covered Lagoon,Dairy ,2400,273600,,CNG,131,212,81
+Riverdale,Fresno,Covered Lagoon,Dairy ,6500,741000,,CNG,130,264,134
+Hanford,Kings,Covered Lagoon,Dairy ,6300,718200,,CNG,126,250,124
+Hilmar,Merced,Covered Lagoon,Dairy ,2000,228000,,CNG,113,264,151
+Lamar,Prowers,Complete Mix,Dairy ,,0,Project Name,Flared Full-time,,264,153
+Windsor,Weld,Mixed Plug Flow,Dairy ,7100,660300,,Pipeline Gas,109,189,80
+Thompson,,Complete Mix,Dairy ,430,51600,3500000,Cogeneration,108,228,120
+East Cannan,Litchfield,Horizontal Plug Flow,Dairy ,250,33750,,Boiler/Furnace fuel,107,225,118
+Coventry,,Complete Mix,Dairy ,475,57000,4500000,Electricity,106,246,140
+Ellington,Tolland,,Dairy ,2800,#N/A,,Pipeline Gas,105,189,84
+Trenton,Gilchrist,Mixed Plug Flow,Dairy ,6500,604500,7446000,Electricity,102,228,126
+Lee,Madison,Mixed Plug Flow,Dairy ,4309,400737,,Pipeline Gas,96,225,129
+O'Brien,Suwannee,Mixed Plug Flow,Dairy ,,0,4467600,Electricity,,218,123
+Hague,Alachua,Fixed Film/Attached Media,Dairy ,500,63000,,Boiler/Furnace fuel,94,221,127
+Athens,Oglethorpe,Unknown or Unspecified,Dairy ,,0,,Boiler/Furnace fuel,,235,143
+New Liberty,Scott,Complete Mix,Dairy ,,0,6742081,Cogeneration,,207,116
+Amana,Iowa,Mixed Plug Flow,Dairy ,,0,22776000,Cogeneration,,251,161
+Williamsburg,Iowa,Covered Lagoon,Dairy ,,0,,Flared Full-time,,232,143
+State Center,Marshall,Complete Mix,Dairy ,8000,960000,,Pipeline Gas,87,260,173
+Rock Valley,Sioux,Mixed Plug Flow,Dairy ,9000,837000,,CNG,86,258,172
+Doon,Lyon,Mixed Plug Flow,Dairy ,8000,744000,,CNG,84,262,178
+Westgate,Fayette,Horizontal Plug Flow,Dairy ,700,94500,876000,Cogeneration,81,232,151
+Rock Valley,Sioux,Mixed Plug Flow,Dairy ,2100,195300,,Pipeline Gas,80,248,168
+Jerome,Jerome,Mixed Plug Flow,Dairy ,15000,1395000,,Pipeline Gas,76,248,172
+Filer,Twin Falls,Complete Mix,Dairy ,8900,1068000,15550000,Electricity,75,260,185
+Jerome,Jerome,Complete Mix,Dairy ,7200,864000,12000000,Cogeneration,74,294,220
+Gooding,Gooding,Mixed Plug Flow,Dairy ,5400,502200,9500000,Electricity,71,253,182
+Hansen,Twin Falls,Mixed Plug Flow,Dairy ,10000,930000,18527400,Electricity,97,260,163
+Roberts,Jefferson,Complete Mix,Dairy ,5500,660000,12658200,Cogeneration,163,255,92
+Jerome,Jerome,Complete Mix,Dairy ,35000,4200000,,Pipeline Gas,145,262,117
+Burley,Cassia,Complete Mix,Dairy ,,0,,Pipeline Gas,,382,244
+Burley,Cassia,Covered Lagoon,Dairy ,,0,,Pipeline Gas,,340,186
+Burley,Cassia,Complete Mix,Dairy ,,0,,Pipeline Gas,,382,241
+Burley,Cassia,Covered Lagoon,Dairy ,,0,,Pipeline Gas,,340,208
+Rio,Knox,Covered Lagoon,Dairy ,,0,315360,Cogeneration,,382,223
+Pearl City,Caroll,Mixed Plug Flow,Dairy ,850,79050,1533000,Cogeneration,134,340,206
+Reynolds,White,Mixed Plug Flow,Dairy ,,0,70364700,Cogeneration,,338,176
+Fair Oaks,Jasper,Mixed Plug Flow,Dairy ,3600,334800,,CNG,120,322,202
+Fair Oaks,Jasper,Mixed Plug Flow,Dairy ,12000,1116000,7818300,Cogeneration; CNG,155,377,222
+Fair Oaks,Jasper,Mixed Plug Flow,Dairy ,4300,399900,,CNG,139,354,215
+Goshen,Elkhart,Mixed Plug Flow,Dairy ,1500,139500,,Cogeneration,122,283,161
+Fair Oaks,Jasper,Mixed Plug Flow,Dairy ,5250,488250,,CNG,150,294,144
+Rensselaer,Jasper,Mixed Plug Flow,Dairy ,4000,372000,7073700,Cogeneration,124,262,138
+Plymouth,Marshall,Complete Mix,Dairy ,2100,252000,7446000,Electricity,143,271,128
+Huntington,Huntington,Mixed Plug Flow,Dairy ,4500,418500,,CNG,127,290,163
+Rensselaer,Jasper,Mixed Plug Flow,Dairy ,3611,335823,,Pipeline Gas,151,258,107
+Reynolds,White,Mixed Plug Flow,Dairy ,9240,859320,,Pipeline Gas,144,269,125
+Monticello,White,Complete Mix,Dairy ,,0,8370000,Cogeneration,,242,121
+Fair Oaks,Jasper,Mixed Plug Flow,Dairy ,7000,651000,,CNG,148,294,146
+Hanford,CA,Covered Lagoon,Dairy ,39000,4446000,,CNG,136,292,156
+Campbellsville,Taylor,Primary digester tank with secondary covered lagoon,Dairy ,,0,3300000,Electricity,,382,263
+Hadley,Hampshire,Complete Mix,Dairy ,550,66000,7000000,Cogeneration,147,340,193
+Deerfield,Franklin,Complete Mix,Dairy ,300,36000,,Electricity,125,276,151
+Haverhill,Essex,Complete Mix,Dairy ,500,60000,7700000,Cogeneration,140,258,118
+Rutland,Worcester,Complete Mix,Dairy ,300,36000,3700000,Cogeneration,128,179,51
+Spencer,Worcester,Complete Mix,Dairy ,800,96000,,Cogeneration,149,179,30
+Hatfield,Hampshire,Complete Mix,Dairy ,174,20880,2365200,Electricity,137,202,65
+Sheffield,Berkshire,Mixed Plug Flow,Dairy ,600,55800,,Cogeneration,129,189,60
+Granville,Hampden,Complete Mix,Dairy ,602,72240,3287628,Electricity,146,192,46
+Pocomoke City,,Complete Mix,Dairy ,,0,100000,Electricity; Boiler/Furnace fuel,,177,42
+Beltsville,Prince Georges,Complete Mix,Dairy ,145,17400,,Boiler/Furnace fuel,133,163,30
+Clinton,Kennebec,Mixed Plug Flow,Dairy ,5275,490575,,Pipeline Gas,126,209,83
+Exeter,Penobscot,Complete Mix,Dairy ,1500,180000,8584800,Electricity,142,276,134
+Coopersville,Ottawa,Unknown or Unspecified,Dairy ,3000,315000,,Pipeline Gas,130,259,129
+Freeport,Barry,Complete Mix,Dairy ,3300,396000,11913600,Electricity; Boiler/Furnace fuel,131,230,99
+Ravenna,Muskegon,Complete Mix,Dairy ,1000,120000,,Cogeneration,123,290,167
+Hamilton,Allegan,Complete Mix,Dairy ,450,54000,657000,Cogeneration; Boiler/Furnace fuel,152,272,120
+Elsie,Shiawassee,Complete Mix,Dairy ,3200,384000,6500000,Electricity,160,347,187
+Greenville,Montcalm,Unknown or Unspecified,Dairy ,3020,317100,,Pipeline Gas,161,366,205
+Lansing,Ingham,Complete Mix,Dairy ,360,43200,2800000,Cogeneration,153,334,181
+Coopersville,Ottawa,Complete Mix,Dairy ,3100,372000,223380,Cogeneration,158,380,222
+Hartford,Van Buren,Unknown or Unspecified,Dairy ,5750,603750,,Pipeline Gas,157,344,187
+Fennville,Allegan,Complete Mix,Dairy ,3700,444000,3138817,Cogeneration,156,380,224
+Morenci,Lenawee,Unknown or Unspecified,Dairy ,3250,341250,,Pipeline Gas,165,344,179
+Orleans,Ionia,Mixed Plug Flow,Dairy ,3830,356190,,Boiler/Furnace fuel,166,380,214
+Lake Benton,Lincoln,Complete Mix,Dairy ,2000,240000,,Pipeline Gas,167,362,195
+Hancock,Stevens,Mixed Plug Flow,Dairy ,5520,513360,,CNG,168,380,212
+Princeton,Mille Lacs,Horizontal Plug Flow,Dairy ,900,121500,1226400,Electricity; Cogeneration,169,344,175
+Le Sueur,Le Sueur,Complete Mix,Dairy ,3000,360000,4839900,Cogeneration,163,380,217
+St. Peter,Nicollet,Horizontal Plug Flow,Dairy ,3000,405000,2803200,Cogeneration,145,362,217
+Morris,Stevens,Mixed Plug Flow,Dairy ,7665,712845,,CNG,138,414,276
+Morris,Stevens,Mixed Plug Flow,Dairy ,6300,585900,,CNG,154,432,278
+Triplet,Chariton,Induced Blanket Reactor,Dairy ,,0,4467600,Electricity,,411,270
+Columbia,,Complete Mix,Dairy ,,0,,Flared Full-time,,419,287
+Unionville,Putnam,Covered Lagoon,Dairy ,,0,,Pipeline Gas,,435,276
+King City,Gentry,Covered Lagoon,Dairy ,,0,,Pipeline Gas,,413,279
+Harris,Sullivan,Covered Lagoon,Dairy ,,0,,Pipeline Gas,,221,59
+Albany,Gentry,Covered Lagoon,Dairy ,,0,,Pipeline Gas,,244,124
+Mercer,Mercer,Covered Lagoon,Dairy ,,0,,Pipeline Gas,,229,74
+Browning,,Covered Lagoon,Dairy ,,0,,Pipeline Gas,,200,61
+Green City,Sullivan,Covered Lagoon,Dairy ,,0,,Pipeline Gas,,228,106
+Unionville,Putnam,Covered Lagoon,Dairy ,,0,,Pipeline Gas,,184,34
+Prentiss,Jefferson Davis,Complete Mix,Dairy ,,0,558450,Cogeneration; Boiler/Furnace fuel,,244,120
+Laurel,Jones,Complete Mix,Dairy ,,0,876000,Cogeneration,,235,92
+Montpelier,Clay,Covered Lagoon,Dairy ,,0,88700,Cogeneration; Boiler/Furnace fuel,,271,144
+Forest,Scott,Fixed Film/Attached Media,Dairy ,450,56700,306600,Electricity; Boiler/Furnace fuel,151,269,118
+Corvallis,Ravalli,Induced Blanket Reactor,Dairy ,750,82500,372300,Electricity; Boiler/Furnace fuel,144,292,148
+Zebulon,Johnston,Complete Mix,Dairy ,,0,,Boiler/Furnace fuel,,270,149
+Zebulon,Johnston,Covered Lagoon,Dairy ,,0,,Boiler/Furnace fuel,,324,176
+Cherryville,Gaston,Mixed Plug Flow,Dairy ,1618,150474,,Pipeline Gas,136,290,154
+Lillington,Harnett,Covered Lagoon,Dairy ,,0,341000,Electricity,,285,166
+Lillington,Harnett,Covered Lagoon,Dairy ,,0,275000,Electricity,,299,152
+Warsaw,Duplin,Unknown or Unspecified,Dairy ,,0,,Pipeline Gas,,277,152
+Lilesville,Anson,Unknown or Unspecified,Dairy ,,0,,Pipeline Gas,,329,189
+Boonville,Yadkin,Covered Lagoon,Dairy ,,0,483990,Electricity,,184,56
+Faison,Duplin,Covered Lagoon,Dairy ,,0,,Boiler/Furnace fuel,,173,24
+Kenansville,Duplin,Covered Lagoon,Dairy ,,0,11000000,Pipeline to Electricity,,191,54
+Magnolia,Duplin,Complete Mix,Dairy ,,0,4380000,Electricity; Cogeneration,,182,53
+Magnolia,Duplin,Complete Mix,Dairy ,,0,7008000,Electricity; Cogeneration,,191,45
+Bladenboro,Bladen,Mixed Plug Flow,Dairy ,,0,4467600,Electricity,,184,49
+Monroe,Union,Unknown or Unspecified,Dairy ,,0,,Pipeline Gas,,184,51
+Stantonburg,Wilson,Unknown or Unspecified,Dairy ,,0,,Pipeline Gas,,172,46
+Candor,Tioga,Horizontal Plug Flow,Dairy ,520,70200,613000,Electricity; Cogeneration,142,191,49
+Peru,Clinton,Complete Mix,Dairy ,3500,420000,,Electricity,130,182,52
+Scipio Center,Cayuga,Mixed Plug Flow,Dairy ,4443,413199,,,131,191,60
+Aurora,Cayuga,Mixed Plug Flow,Dairy ,2400,223200,1068720,Electricity,123,184,61
+Varysburg,Wyoming,Mixed Plug Flow,Dairy ,2000,186000,,Cogeneration; Pipeline Gas,152,159,7
+Auburn,Cayuga,Complete Mix,Dairy ,1255,150600,4624000,Cogeneration,160,159,-1
+Avon,Livingston,Covered Lagoon,Dairy ,1100,125400,,Flared Full-time,161,317,156
+Amsterdam,Montgomery,Covered Lagoon,Dairy ,400,45600,,Flared Full-time,153,294,141
+King Ferry,Cayuga,Covered Lagoon,Dairy ,800,91200,3723000,Electricity,158,317,159
+Perry,Wyoming,Mixed Plug Flow,Dairy ,2250,209250,4467600,Cogeneration,157,294,137
+Perry,Wyoming,Mixed Plug Flow,Dairy ,2250,209250,,Pipeline Gas,156,317,161
+Canton,St. Lawrence,Complete Mix,Dairy ,2300,276000,2803200,Electricity,165,294,129
+Clifton Springs,Ontario,Covered Lagoon,Dairy ,700,79800,,,166,317,151
+Wilson,Niagra,Complete Mix,Dairy ,1900,228000,,Pipeline Gas,167,294,127
+Wilson,Niagra,Complete Mix,Dairy ,1900,228000,,Electricity,168,283,115
+Oakfield,Genesee,Mixed Plug Flow,Dairy ,2000,186000,3350700,Electricity,169,290,121
+Oakfield,Genesee,Mixed Plug Flow,Dairy ,2700,251100,3350700,Electricity; Pipeline Gas,163,193,30
+Stanley,Ontario,Complete Mix,Dairy ,1650,198000,,Electricity; Pipeline Gas,145,186,41
+LINWOOD,Livingston,Complete Mix,Dairy ,1850,222000,,Cogeneration,138,207,69
+Genoa,Cayuga,Covered Lagoon,Dairy ,1650,188100,,Flared Full-time,154,237,83
+Clymer,Chautauqua,Complete Mix,Dairy ,650,78000,1717000,Cogeneration,141,232,91
+Scipio Center,Cayuga,Complete Mix,Dairy ,1350,162000,2102400,Electricity,132,246,114
+Adams,Jefferson,Complete Mix,Dairy ,625,75000,381240,Cogeneration,159,242,83
+Union Springs,Cayuga,Mixed Plug Flow,Dairy ,3360,312480,2749000,Electricity,134,230,96
+Perry,Wyoming,Horizontal Plug Flow,Dairy ,1800,243000,1226400,Cogeneration,162,225,63
+Scipio Center,Cayuga,Mixed Plug Flow,Dairy ,3200,297600,6615552,Electricity,120,230,110
+Warsaw,Wyoming,Mixed Plug Flow,Dairy ,850,79050,2102400,Electricity,155,242,87
+Warsaw,Wyoming,Mixed Plug Flow,Dairy ,1840,171120,,Pipeline Gas,139,230,91
+Covington,Wyoming,Complete Mix,Dairy ,2000,240000,16910000,Electricity,122,294,172
+Skaneateles,Cayuga,Horizontal Plug Flow,Dairy ,1900,256500,420480,Electricity; Boiler/Furnace fuel,150,251,101
+Poestenkill,Rensselear,Complete Mix,Dairy ,350,42000,876000,Cogeneration,124,308,184
+Fort Ann,Washington,Complete Mix,Dairy ,1350,162000,1396096,Cogeneration,143,251,108
+King Ferry,Cayuga,Mixed Plug Flow,Dairy ,3500,325500,,Pipeline Gas,127,237,110
+King Ferry,Cayuga,Mixed Plug Flow,Dairy ,3500,325500,7446000,Cogeneration,151,237,86
+Clifton Springs,Ontario,Covered Lagoon,Dairy ,1050,119700,,Flared Full-time,144,222,78
+Ogdensburg,St. Lawrence,Complete Mix,Dairy ,6000,720000,,Cogeneration,121,317,196
+Byron,Genesee,Complete Mix,Dairy ,1800,216000,2102400,Cogeneration,148,276,128
+Byron,Genesee,Complete Mix,Dairy ,1800,216000,,Pipeline Gas,136,269,133
+Montpelier,Williams,Mixed Plug Flow,Dairy ,3350,311550,3100000,Cogeneration,119,225,106
+Haviland,Paulding,Mixed Plug Flow,Dairy ,2100,195300,2860000,Electricity,147,230,83
+Circleville,Pickaway,Covered Lagoon,Dairy ,1000,114000,,Flared Full-time,125,242,117
+West Unity,Williams,Complete Mix,Dairy ,1810,217200,2978400,Electricity,140,230,90
+Fairborn,Greene,Complete Mix,Dairy ,,0,,Electricity,,258,130
+Cardington,Morrow,Complete Mix,Dairy ,,0,7008000,Electricity; Boiler/Furnace fuel; CNG,,301,152
+Ft Recovery,Mercer,Mixed Plug Flow,Dairy ,,0,7008000,Cogeneration,,294,157
+Turpin,Beaver,Covered Lagoon,Dairy ,,0,,Boiler/Furnace fuel,,320,191
+Tillamook,Tillamook,Mixed Plug Flow,Dairy ,2500,232500,5700000,Electricity,146,317,171
+Tillamook,Tillamook,Mixed Plug Flow,Dairy ,2000,186000,8234400,Electricity,135,258,123
+Junction City,Lane,Anaerobic Sequencing Batch Reactor,Dairy ,1027,126321,1500000,Electricity,133,237,104
+Aumsville,Marion,Anaerobic Sequencing Batch Reactor,Dairy ,750,92250,1228590,Electricity; Cogeneration,126,294,168
+Dayton,Yamhill,Anaerobic Sequencing Batch Reactor,Dairy ,2540,312420,3100000,Electricity; Cogeneration,142,251,109
+Boardman,Morrow,Mixed Plug Flow,Dairy ,33000,3069000,,Pipeline Gas,130,308,178
+Cochranville,Chester,Mixed Plug Flow,Dairy ,825,76725,,Electricity,131,251,120
+Conneautville,Crawford,Complete Mix,Dairy ,1600,192000,3225000,Cogeneration,123,237,114
+Homer City,Indiana,Horizontal Plug Flow,Dairy ,425,57375,334719,Cogeneration,152,258,106
+Mount Joy,Lancaster,Complete Mix,Dairy ,1225,147000,1025303,Cogeneration,160,251,91
+Selinsgrove,Schuykill,Vertical Plug Flow,Dairy ,,0,163812,Cogeneration,,235,74
+Berlin,Somerset,Horizontal Plug Flow,Dairy ,400,54000,157108,Cogeneration,153,222,69
+Ulysses,Potter,Horizontal Plug Flow,Dairy ,650,87750,1103760,Cogeneration,158,317,159
+Shippensburg,Cumberland,Complete Mix,Dairy ,800,96000,1100000,Cogeneration,157,186,29
+Rockwood,Somerset,Horizontal Plug Flow,Dairy ,600,81000,1200000,Cogeneration,156,198,42
+Beavertown,Snyder,Complete Mix,Dairy ,,0,1340280,Cogeneration,,202,37
+Belleville,Mifflin,Complete Mix,Dairy ,350,42000,480000,Cogeneration,166,198,32
+Mifflintown,Juniata,Complete Mix Mini Digester,Dairy ,340,29920,1182600,Electricity,167,195,28
+Lancaster,Lancaster,Complete Mix,Dairy ,700,84000,1226400,Cogeneration,168,212,44
+Newville,Cumberland,Complete Mix,Dairy ,915,109800,833000,Cogeneration,169,202,33
+Gettysburg,Adams,Horizontal Plug Flow,Dairy ,2300,310500,4467600,Cogeneration,163,168,5
+Bethel,Berks,Complete Mix,Dairy ,500,60000,730000,Electricity,145,168,23
+Nottingham,Chester,Complete Mix,Dairy ,,0,262800,Electricity,,331,193
+Manheim,Lancaster,Complete Mix,Dairy ,400,48000,1051200,Cogeneration,154,278,124
+Williamsburg,Blair,Complete Mix,Dairy ,800,96000,1261440,Cogeneration,141,250,109
+Berlin,Somerset,Complete Mix,Dairy ,600,72000,395259,Electricity,132,271,139
+Danville,Northumberland,Complete Mix,Dairy ,,0,66430,Electricity,,264,105
+Mifflintown,Juniata,Complete Mix,Dairy ,800,96000,,Cogeneration,134,255,121
+Mifflintown,Juniata,Complete Mix,Dairy ,320,38400,1552452,Electricity,162,285,123
+Roaring Branch,Tioga,Complete Mix,Dairy ,,0,1419120,Electricity,,276,156
+Quarryville,Lancaster,Complete Mix,Dairy ,787,94440,1401600,Electricity,155,259,104
+Loganton,Clinton,Horizontal Plug Flow,Dairy ,650,87750,1600000,Cogeneration,139,179,40
+Kirkwood,Lancaster,Complete Mix,Dairy ,250,30000,879666,Cogeneration,122,179,57
+St. Thomas,Franklin,Covered Lagoon,Dairy ,790,90060,483990,Cogeneration,150,182,32
+Narvon,Lancaster,Complete Mix,Dairy ,400,48000,688373,Cogeneration,124,166,42
+Mount Joy,Lancaster,Complete Mix,Dairy ,1100,132000,3354762,Cogeneration,143,179,36
+Nesmith,Williamsburg,Covered Lagoon,Dairy ,,0,1340280,Cogeneration,,182,55
+Lamar,Darlingon,Horizontal Plug Flow,Dairy ,,0,4020840,Electricity,,156,5
+Sumter,,Covered Lagoon,Dairy ,,0,,Cogeneration,,179,35
+Baltic,Minnehaha,Complete Mix,Dairy ,3595,431400,,Pipeline Gas,121,200,79
+Lake Norden,Hamlin,Complete Mix,Dairy ,6500,780000,,Pipeline Gas,148,193,45
+Milbank,Grant,Plug Flow - Unspecified,Dairy ,2400,230400,2792250,Electricity; Cogeneration; Boiler/Furnace fuel,136,138,2
+Sherman,Minnehaha,Complete Mix,Dairy ,6244,749280,,Pipeline Gas,119,373,254
+Baltic,Minnehaha,Complete Mix,Dairy ,1160,139200,,Pipeline Gas,147,350,203
+Revillo,Grant,Complete Mix,Dairy ,5000,600000,,Pipeline Gas,125,396,271
+Hico,Hamilton,Mixed Plug Flow,Dairy ,3712,345216,,Pipeline Gas,140,360,220
+Friona,Parmer,Complete Mix,Dairy ,7500,900000,,Pipeline Gas,128,386,258
+Dumas,Moore,Covered Lagoon,Dairy ,2250,256500,,Pipeline Gas,149,368,219
+Dalhert,Hartley,Covered Lagoon,Dairy ,32500,3705000,,Pipeline Gas,137,488,351
+Dalhart,,Covered Lagoon,Dairy ,,0,,CNG,,421,292
+Dublin,Erath,Mixed Plug Flow,Dairy ,7205,670065,,Pipeline Gas,146,382,236
+Dalhart,Dallam,Covered Lagoon,Dairy ,,0,,Boiler/Furnace fuel,,225,90
+Dalhart,Dallam,Covered Lagoon,Dairy ,,0,,Boiler/Furnace fuel,,248,115
+Dimmit,Hart,Complete Mix,Dairy ,,0,,,,264,138
+Como,Hopkins,Mixed Plug Flow,Dairy ,4628,430404,,CNG,142,281,139
+Dumas,Moore,Covered Lagoon,Dairy ,37500,4275000,,Pipeline Gas,130,209,79
+Benson,Cache,Induced Blanket Reactor,Dairy ,,0,297840,Cogeneration,,221,90
+Milford,,Covered Lagoon,Dairy ,,0,,Pipeline Gas,,216,93
+Chester,Sanpete,Induced Blanket Reactor,Dairy ,750,82500,368580,Electricity,152,214,62
+West Weber,Weber,Induced Blanket Reactor,Dairy ,1200,132000,823440,Cogeneration,160,230,70
+Chatham,Pittsylvania,Mixed Plug Flow,Dairy ,1200,111600,3350700,Cogeneration,161,368,207
+Bridport,Addison,Mixed Plug Flow,Dairy ,3900,362700,4204800,Cogeneration,153,346,193
+North Troy,Orleans,Complete Mix,Dairy ,1700,204000,1600000,Cogeneration,158,235,77
+Vergennes,Addison,Mixed Plug Flow,Dairy ,1200,111600,2700000,Cogeneration,157,299,142
+Bristol,Addison,Mixed Plug Flow,Dairy ,1200,111600,3350700,Cogeneration,156,274,118
+Bakersfield,Franklin,Mixed Plug Flow,Dairy ,950,88350,780000,Cogeneration,165,254,89
+Salisbury,Addison,Complete Mix,Dairy ,900,108000,,Pipeline Gas,166,288,122
+Sheldon,Frankin,Mixed Plug Flow,Dairy ,1050,97650,1800000,Cogeneration,167,267,100
+Greensboro,Orleans,Mixed Plug Flow,Dairy ,45,4185,,Boiler/Furnace fuel,168,292,124
+Enosburg Falls,Franklin,Mixed Plug Flow,Dairy ,850,79050,1675350,Cogeneration,169,294,125
+Coventry,Orleans,Mixed Plug Flow,Dairy ,750,69750,1750000,Cogeneration,163,366,203
+Weybridge,Addison,Mixed Plug Flow,Dairy ,500,46500,788400,Cogeneration,145,317,172
+Swanton,Franklin,Mixed Plug Flow,Dairy ,1200,111600,1400000,Cogeneration,138,308,170
+Berkshire,Franklin,Mixed Plug Flow,Dairy ,1950,181350,3500000,Cogeneration,154,402,248
+Putney,Windham,Mixed Plug Flow,Dairy ,1200,111600,1642500,Cogeneration,141,283,142
+Lynden,Whatcom,Mixed Plug Flow,Dairy ,2500,232500,6175800,Electricity,132,264,132
+Lynden,Whatcom,Mixed Plug Flow,Dairy ,2000,186000,6175800,Cogeneration,159,283,124
+Mount Vernon,Skagit,Mixed Plug Flow,Dairy ,1500,139500,6175800,Electricity,134,264,130
+Outlook,Yakima,Mixed Plug Flow,Dairy ,4000,372000,9881280,Cogeneration,162,336,174
+Monroe,Snohomish,Mixed Plug Flow,Dairy ,2000,186000,3705480,Electricity,120,315,195
+Enumclaw,King,Mixed Plug Flow,Dairy ,1500,139500,8234400,Electricity,155,336,181
+Lynden,Whatcom,Complete Mix,Dairy ,800,96000,2803200,Electricity,139,315,176
+Lynden,Whatcom,Mixed Plug Flow,Dairy ,1000,93000,4467600,Electricity,122,308,186
+Dorchester,Clark,Mixed Plug Flow,Dairy ,2500,232500,,Electricity; Boiler/Furnace fuel,150,288,138
+Dorchester,Clark,Mixed Plug Flow,Dairy ,1250,116250,2233800,Electricity,124,308,184
+Baldwin,Saint Croix,Mixed Plug Flow,Dairy ,1050,97650,,Boiler/Furnace fuel,143,288,145
+Greenleaf,Brown,Complete Mix,Dairy ,30000,3600000,,Pipeline Gas,127,343,216
+Mondovi,Dunn,Unknown or Unspecified,Dairy ,5200,546000,,Pipeline Gas,151,320,169
+Nekoosa,Wood,Mixed Plug Flow,Dairy ,3900,362700,6307200,Electricity,144,340,196
+Campbellsport,Fond du Lac,Mixed Plug Flow,Dairy ,2000,186000,,Pipeline Gas,121,318,197
+Waterloo,Dodge,Complete Mix,Dairy ,2450,294000,1801515,Cogeneration,148,414,266
+Casco,Kewaunee,Mixed Plug Flow,Dairy ,3000,279000,5956800,Electricity; Pipeline Gas,136,175,39
+New Franken,Kewaunee,Mixed Plug Flow,Dairy ,3000,279000,4432560,Cogeneration; Boiler/Furnace fuel,119,175,56
+New Franken,Kewaunee,Mixed Plug Flow,Dairy ,3157,293601,,CNG,147,152,5
+Brillion,Calumet,Mixed Plug Flow,Dairy ,2400,223200,,Pipeline Gas,125,161,36
+Middleton,Dane,Complete Mix,Dairy ,4200,504000,,Pipeline Gas,140,184,44
+Vienna,Dane,Complete Mix,Dairy ,2500,300000,,Pipeline Gas,128,264,136
+Kewaunee,Kewaunee,Mixed Plug Flow,Dairy ,1700,158100,,Pipeline Gas,149,278,129
+Elk Mound,Dunn,Complete Mix,Dairy ,1100,132000,Project Name,Flared Full-time,137,294,157
+Grantsburg,Burnett,Covered Lagoon,Dairy ,800,91200,,Flared Full-time,129,205,76
+Nelsonville,Portage,Mixed Plug Flow,Dairy ,850,79050,876051,Cogeneration,146,177,31
+Krakow,Shawano,Complete Mix,Dairy ,4700,564000,,CNG,135,165,30
+Newton,Mantiowoc,Mixed Plug Flow,Dairy ,2400,223200,,Cogeneration; CNG,133,179,46
+Alma Center,Jackson,Complete Mix,Dairy ,1900,228000,3300000,Cogeneration,126,165,39
+Hilbert,Calumet,Mixed Plug Flow,Dairy ,4000,372000,,Pipeline Gas,142,184,42
+Hilbert,Calumet,Mixed Plug Flow,Dairy ,4000,372000,,Pipeline Gas,130,170,40
+Casco,Kewaunee,Complete Mix,Dairy ,8300,996000,,Pipeline Gas,131,166,35
+Sheboygan Falls,Sheboygan,Plug Flow - Unspecified,Dairy ,650,62400,,Electricity,123,162,39
+Cleveland,Manitowoc,Mixed Plug Flow,Dairy ,2000,186000,,Cogeneration; CNG,152,196,44
+Cleveland,Manitowoc,Mixed Plug Flow,Dairy ,4000,372000,,Electricity; CNG,160,186,26
+Sun Prairie,Dane,Complete Mix,Dairy ,1300,156000,5000000,Electricity; Cogeneration,161,207,46
+Grand Marsh,Adams,Unknown or Unspecified,Dairy ,9100,955500,,Pipeline Gas,153,205,52
+Chili,Clark,Mixed Plug Flow,Dairy ,2600,241800,3705360,Cogeneration,158,186,28
+Kewaunee,Kewaunee,Mixed Plug Flow,Dairy ,5000,465000,,CNG,157,216,59
+Pickett,Winnebago,Complete Mix,Dairy ,10000,1200000,,Electricity; Pipeline Gas,156,126,-30
+Sturgeon Bay,Door,Mixed Plug Flow,Dairy ,6000,558000,,Pipeline Gas,165,235,70
+Sun Prairie,Dane,Mixed Plug Flow,Dairy ,2100,195300,,Pipeline Gas,166,244,78
+Marshall,Dane,Mixed Plug Flow,Dairy ,2500,232500,,Pipeline Gas,167,264,97
+Suring,Oronto,Complete Mix,Dairy ,810,97200,2000000,Cogeneration,168,292,124
+Pickett,Winnebago,Complete Mix,Dairy ,8500,1020000,12491760,Electricity,169,304,135
+Oshkosh,Winnebago County,Mixed Plug Flow,Dairy ,185,17205,481800,Cogeneration,163,244,81
+Fond du Lac,Fond du Lac,Complete Mix,Dairy ,2000,240000,6701400,Cogeneration,145,209,64
+Kewaskum,Fond du Lac,Mixed Plug Flow,Dairy ,825,76725,1675350,Cogeneration,138,271,133
+Kewaunee,Kewaunee,Mixed Plug Flow,Dairy ,2100,195300,4467600,Electricity,154,237,83
+LaFarge,Vernon,Complete Mix,Dairy ,880,105600,Project Name,Flared Full-time,141,229,88
+Gillett,Oconto,Mixed Plug Flow,Dairy ,7120,662160,,Pipeline Gas,132,258,126
+Carpenter,Laramie,Mixed Plug Flow,Dairy ,6210,577530,,Pipeline Gas,159,251,92
+Wheatland,Platte,Complete Mix,Dairy ,,0,595680,Electricity,,218,84
+Dos Palos,Merced,Complete Mix,Dairy ,5420,650400,,,162,228,66
+Imperial,Imperial,Covered Lagoon,Dairy ,3300,376200,2233800,Electricity,120,232,112
+San Luis Obispo,San Luis Obispo,Covered Lagoon,Dairy ,175,19950,236520,Electricity,155,239,84
+Galt,Sacramento,Covered Lagoon,Dairy ,900,102600,552802,Electricity,139,283,144
+Lemoore,Kings,Horizontal Plug Flow,Dairy ,1100,148500,500991,Cogeneration,122,297,175
+Chino,San Bernardino,Horizontal Plug Flow,Dairy ,3225,435375,4931880,Electricity,150,347,197
+Ontario,San Bernardino,Complete Mix,Dairy ,,0,7446000,Electricity,,366,242
+Tulare,Tulare,Horizontal Plug Flow,Dairy ,2000,270000,615755,Electricity,143,334,191
+Durham,Butte,Horizontal Plug Flow,Dairy ,750,101250,300000,Cogeneration,127,380,253
+Tulare,Tulare,Covered Lagoon,Dairy ,2640,300960,,Flared Full-time,151,344,193
+El Mirage,San Bernardino,Horizontal Plug Flow,Dairy ,2000,270000,353000,Electricity,144,380,236
+Galt,Sacramento,Complete Mix,Dairy ,1700,204000,1830000,Electricity,121,344,223
+Tulare,Tulare,Covered Lagoon,Dairy ,,0,744600,Cogeneration,,380,232
+Petaluma,Sonoma,Covered Lagoon,Dairy ,240,27360,350400,Cogeneration; Refrigeration,136,362,226
+Elk Grove,Sacramento,Covered Lagoon,Dairy ,900,102600,1599070,Electricity,119,380,261
+Lakeside,San Diego,Horizontal Plug Flow,Dairy ,550,74250,,,147,344,197
+Lakeside,San Diego,Horizontal Plug Flow,Dairy ,624,84240,489465,Electricity,125,380,255
+Riverdale,Fresno,Covered Lagoon,Dairy ,5000,570000,,Pipeline Gas,140,362,222
+Eaton,Weld,Complete Mix,Dairy ,,0,,Pipeline Gas,,414,286
+North Franklin,New London,Complete Mix,Dairy ,600,72000,462500,Electricity,149,432,283
+Baxley,Appling,Mixed Plug Flow,Dairy ,1135,105555,263840,Electricity; Boiler/Furnace fuel,137,411,274
+Central City,Linn,Horizontal Plug Flow,Dairy ,380,51300,394200,Electricity,129,419,290
+Riceville,Howard,Mixed Plug Flow,Dairy ,,0,5000000,Electricity,,435,289
+Mt. Pleasant,Henry,Unknown or Unspecified,Dairy ,,0,,Flared Full-time,,413,278
+Thayer,Union,Complete Mix,Dairy ,,0,473040,Electricity,,271,138
+,,Complete Mix,Dairy ,,0,,Electricity,,269,143
+Wendell,Gooding,Induced Blanket Reactor,Dairy ,,0,,Pipeline Gas,,292,150
+Rupert,Minidoka,Induced Blanket Reactor,Dairy ,2900,319000,,Pipeline Gas,130,270,140
+Elmwood,Peoria,Horizontal Plug Flow,Dairy ,1400,189000,1524240,Cogeneration,131,324,193
+Freeport,Stephenson,Mixed Plug Flow,Dairy ,650,60450,893520,Electricity,123,290,167
+Fair Oaks,Jasper,Vertical Plug Flow,Dairy ,3000,348000,5212200,Electricity,152,285,133
+Bowling Green,Warren,Plug Flow - Unspecified,Dairy ,30,2880,,Flared Full-time,160,299,139
+Colora,Cecil,Covered Lagoon,Dairy ,656,74784,430000,Electricity,161,277,116
+Sturgis,St. Joseph,Horizontal Plug Flow,Dairy ,720,97200,620000,Electricity,153,329,176
+Fremont,Newaygo,Complete Mix,Dairy ,,0,22338000,Electricity,,209,51
+Lowell,Kent,Complete Mix,Dairy ,1770,212400,,Electricity,157,276,119
+Altura,Winona,Complete Mix,Dairy ,1070,128400,59831,Cogeneration,156,259,103
+Hancock,Stevens,Mixed Plug Flow,Dairy ,5520,513360,12088800,Cogeneration,165,230,65
+Brooten,Stearns,Induced Blanket Reactor,Dairy ,270,29700,156950,Electricity,166,290,124
+Morris,Stevens,Mixed Plug Flow,Dairy ,7665,712845,15859980,Electricity,167,272,105
+Morris,Stevens,Mixed Plug Flow,Dairy ,6300,585900,15859980,Electricity,168,317,149
+Green City,Sullivan,Covered Lagoon,Dairy ,,0,,Boiler/Furnace fuel,,294,125
+Piney Woods,Rankin,Covered Lagoon,Dairy ,,0,35040,Electricity,,317,183
+Osyka,Pike,Complete Mix,Dairy ,,0,1489200,Electricity,,294,216
+Princeton,Johnston,Complete Mix,Dairy ,,0,520000,Electricity,,338,179
+Greenville,Pitt,Fixed Film/Attached Media,Dairy ,,0,989880,Electricity,,322,210
+Kenansville,Duplin,Covered Lagoon,Dairy ,,0,744600,Electricity,,377,233
+Fremont,Wayne,Covered Lagoon,Dairy ,,0,,,,354,201
+Mead,Saunders,Complete Mix,Dairy ,,0,,Boiler/Furnace fuel,,317,192
+Dodge,Colfax,Complete Mix,Dairy ,,0,730000,Cogeneration; CNG,,294,175
+La Mesa,Do±a Ana,Anaerobic Sequencing Batch Reactor,Dairy ,,0,,Electricity,,317,229
+Cooperstown,Otsego,Complete Mix,Dairy ,270,32400,325000,Cogeneration,138,294,156
+Aquebogue,Suffolk,Complete Mix,Dairy ,,0,,Electricity,,182,89
+Newark,Wayne,Horizontal Plug Flow,Dairy ,1500,202500,,Boiler/Furnace fuel,165,186,21
+Perry,Wyoming,Horizontal Plug Flow,Dairy ,1200,162000,1305240,Cogeneration,72,200,128
+East Jewett,Greene,Fixed Film/Attached Media,Dairy ,100,12600,,Boiler/Furnace fuel,100,209,109
+Homer,Cortland,Complete Mix,Dairy ,1100,132000,,Cogeneration; Boiler/Furnace fuel,129,221,92
+Homer,Cortland,Horizontal Plug Flow,Dairy ,850,114750,521220,Cogeneration; Boiler/Furnace fuel,121,251,130
+LINWOOD,Livingston,Horizontal Plug Flow,Dairy ,3700,499500,788400,Cogeneration,83,110,27
+Auburn,Cayuga,Complete Mix,Dairy ,1900,228000,3092280,Cogeneration,158,161,3
+Schodack,Rensselaer,Covered Lagoon,Dairy ,236,26904,219000,Electricity,143,166,23
+Morrisville,Madison,Horizontal Plug Flow,Dairy ,505,68175,342654,Cogeneration,79,175,96
+Napoleon,Henry,Complete Mix,Dairy ,,0,22000000,Cogeneration,,246,107
+Salem,Marion,Complete Mix,Dairy ,350,42000,306600,Cogeneration,135,209,74
+Cloverdale,Tillamook,Horizontal Plug Flow,Dairy ,1000,135000,744600,Electricity,103,216,113
+Tillamook,Tillamook,Complete Mix,Dairy ,5000,600000,8935200,Cogeneration,145,145,0
+Boardman,Morrow,Fixed Film/Attached Media,Dairy ,1200,151200,,Boiler/Furnace fuel,120,159,39
+Somerset,Somerset,Plug Flow - Unspecified,Dairy ,,0,365000,,,172,22
+Lancaster,Lancaster,Horizontal Plug Flow,Dairy ,,0,967980,Cogeneration,,177,73
+Pitman,Schuykill,Complete Mix,Dairy ,,0,386316,Cogeneration,,244,162
+White,Brookings,Covered Lagoon,Dairy ,1150,131100,,Flared Full-time,122,265,143
+Hico,Hamilton,Covered Lagoon,Dairy ,980,111720,700800,Cogeneration,115,276,161
+Stephenville,Erath,Complete Mix,Dairy ,10000,1200000,,Pipeline Gas,116,308,192
+Godley,Johnson,Horizontal Plug Flow,Dairy ,455,61425,208000,Cogeneration,110,177,67
+Milford,Beaver,Covered Lagoon,Dairy ,,0,23827200,Electricity,,177,59
+South Boston,Halifax,Covered Lagoon,Dairy ,,0,163000,Electricity,,198,57
+Charlotte,Chittenden,Modular Plug Flow,Dairy ,160,19360,148920,Cogeneration,147,196,49
+Middlebury,Addison,Horizontal Plug Flow,Dairy ,380,51300,480000,Electricity; Cogeneration,85,304,219
+Greensboro,Orleans,Complete Mix,Dairy ,450,54000,723000,Cogeneration,117,255,138
+Hyde Park,Lamoille,Complete Mix,Dairy ,350,42000,223380,Cogeneration,142,258,116
+Stowe,Lamoille,Modular Plug Flow,Dairy ,120,14520,87600,Cogeneration,101,267,166
+Randolph Center,Orange,Unknown or Unspecified,Dairy ,60,6300,,,98,237,139
+Shelburne,Chittenden,Vertical Plug Flow,Dairy ,250,29000,483990,Cogeneration,114,264,150
+Williston,Chittenden,Fixed Film/Attached Media,Dairy ,250,31500,,Boiler/Furnace fuel,151,255,104
+Franklin,Franklin,Complete Mix,Dairy ,450,54000,1340280,Cogeneration,138,221,83
+Randolph Center,Orange,Complete Mix,Dairy ,,0,2280000,Cogeneration,,196,34
+Carnation,Ling,Microdigester,Dairy ,,#N/A,,Electricity,,143,19
+Markesan,Green Lake,Mixed Plug Flow,Dairy ,1100,102300,1489200,Cogeneration,156,145,-11
+Emerald,St. Croix,Mixed Plug Flow,Dairy ,1600,148800,819060,Cogeneration,123,214,91
+Malone,Fond du Lac,Mixed Plug Flow,Dairy ,2550,237150,2562409,Cogeneration,77,232,155
+Franksville,Racine,Complete Mix,Dairy ,,0,188902,Electricity,,230,84
+Rice Lake,Barron,Complete Mix,Dairy ,1240,148800,6450000,Electricity,73,242,169
+Weyauwega,Waupaca,Mixed Plug Flow,Dairy ,1200,111600,3350700,Cogeneration,132,244,112
+Denmark,Brown,Horizontal Plug Flow,Dairy ,1000,135000,946080,Electricity,99,177,78
+Wrightstown,Jackson,Fixed Film/Attached Media,Dairy ,1800,226800,5584500,Electricity; Boiler/Furnace fuel,123,184,61
+Chaseburg,Vernon,Complete Mix,Dairy ,200,24000,,Electricity,114,202,88
+Wheatland,Platte,Complete Mix,Dairy ,,0,1340280,Electricity,,196,76
